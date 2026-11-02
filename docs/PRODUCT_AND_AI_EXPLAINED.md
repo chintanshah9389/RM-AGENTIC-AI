@@ -5,6 +5,7 @@ This document explains **what the product is** and **how Agents, LLM, and Tools 
 | | |
 |--|--|
 | **GitHub** | https://github.com/chintanshah9389/RM-AGENTIC-AI |
+| **Enterprise architecture diagram** | https://github.com/chintanshah9389/RM-AGENTIC-AI/blob/main/architecture.jpg |
 | **Demo video** | https://github.com/chintanshah9389/RM-AGENTIC-AI/blob/main/docs/demo-video/RM-AGENTIC-AI-demo.mp4 |
 | **Demo login** | `rm@demo.bank` / `Demo@123` |
 
@@ -234,7 +235,23 @@ In this product, **facts win over guesses**.
 In this POC you can run:
 
 - **`mock` provider** — works fully offline; good for demos without API keys  
-- **`nvidia` provider** — optional real LLM via NVIDIA API when configured  
+- **`nvidia` provider** — **POC default for live LLM** via NVIDIA API (NIM / catalog models) when configured  
+
+### 5.1.1 POC LLM vs stronger models (recommendation)
+
+| Stage | Model choice | Why |
+|-------|----------------|-----|
+| **POC / progressive demo** | **NVIDIA LLM** (already integrated) | Fast to run, cost-effective for demos, enough for intent + draft with our validators |
+| **Better quality (recommended next)** | **Claude Sonnet 4.5** (or latest Sonnet) | Strong tool-calling + instruction following; best balance of quality vs cost for agents |
+| **Highest reasoning (optional)** | **Claude Opus 4.5 / 4.6** (latest Opus) | Best for harder multi-step reasoning and nuanced intent; higher cost — use when quality matters most |
+| **Enterprise alternative** | Azure OpenAI (GPT-4.1 / GPT-4o) or bank-approved private LLM | Often preferred for procurement, data residency, and existing Azure estate |
+
+**Architect recommendation for this product:**
+
+- **Keep NVIDIA for the current POC** so reviewers can run live LLM without changing code.  
+- **For a “better results” pilot**, prefer **Claude Sonnet** as the primary upgrade (agents + WhatsApp drafting improve clearly).  
+- Use **Claude Opus** only where you need maximum reasoning quality (complex RM phrasing, multi-product intent).  
+- Architecture does **not** change — only the LLM provider behind Intent / Message agents. Validators, tools, and human approval stay the same.
 
 ## 5.2 Where the LLM is used
 
@@ -258,7 +275,7 @@ If the LLM were trusted alone, it might:
 - Invent customers  
 - Promise “guaranteed approval”  
 
-This product is designed so those failure modes are **blocked by architecture** (tools + validators + human approval).
+This product is designed so those failure modes are **blocked by architecture** (tools + validators + human approval). Model upgrades improve language quality; **governance still comes from tools + rules + human approval**.
 
 ---
 
@@ -311,6 +328,11 @@ That screen is how we make agents/tools/LLM **visible**, not hidden.
 
 # 9. POC vs Enterprise — same architecture, different maturity
 
+**Enterprise target architecture (diagram):**  
+https://github.com/chintanshah9389/RM-AGENTIC-AI/blob/main/architecture.jpg  
+
+That diagram shows the full enterprise view (RM UI, data sources, LangGraph orchestrator, specialized agents, tool registry, WhatsApp/CRM outputs, security, and business impact). **Our working POC implements the same control flow** with demo stand-ins (synthetic DB, mock WhatsApp, heuristic scores, NVIDIA/mock LLM).
+
 **Key message for clients:** The POC already uses an **enterprise-shaped pattern** (UI → API → Supervisor/LangGraph → Agents → Tools → LLM → Rules → Human approval → Audit).  
 
 Going enterprise does **not** mean throwing this away. It means **hardening and replacing POC stand-ins** (SQLite, mock WhatsApp, heuristic scores, single-server jobs) with bank-grade systems — while **keeping the same agent/tool/LLM control flow**.
@@ -326,7 +348,7 @@ Going enterprise does **not** mean throwing this away. It means **hardening and 
 | **Orchestration** | LangGraph in-process + background thread | Same LangGraph/agent graph on **job queue / workers** (Redis/SQS/Kafka), retries, DLQ, SLA timers |
 | **Agents** | 9 specialized agents + supervisor | Same agent roles; versioned agent configs; A/B prompts; kill-switches per agent |
 | **Tools** | DB tools: products, search, 360, message context | Same tool *contracts* wired to **Core Banking / CRM / CDP / Consent Hub** APIs (not direct SQLite) |
-| **LLM** | Mock or optional NVIDIA NIM | Bank-approved LLM (private VPC / Azure OpenAI / on-prem), prompt vault, PII redaction gateway, cost controls |
+| **LLM** | Mock or **NVIDIA** (POC live LLM) | Stronger models e.g. **Claude Sonnet/Opus** or Azure OpenAI; private VPC, prompt vault, PII gateway, cost controls |
 | **Scoring** | Transparent heuristics (demo) | Champion/challenger ML models, feature store, model registry, credit-policy sign-off (where applicable) |
 | **Eligibility / compliance** | In-app rules | Policy engine + regulated rule packs; consent from official Consent Management System |
 | **Product catalogue** | Seeded `products` table | Master product catalogue / offer management system as system of record |
@@ -393,12 +415,15 @@ Sharing an explanation of the **RM Agentic AI Banking CRM** proof of concept.
 - **LLM** helps interpret language and draft text, but validators and banking-style rules control the final outcome.  
 - If a product is not in the catalogue (e.g. Gold Loan), the system returns **No data found** instead of substituting another product.  
 
-**POC vs enterprise:** The POC already follows an enterprise-shaped architecture (API + LangGraph agents + tools + LLM + rules + human approval + audit). For production we keep that pattern and upgrade hosting, SSO, core-banking/CRM integrations, real WhatsApp, HA databases, job queues, and model risk controls. A full comparison table is in `docs/PRODUCT_AND_AI_EXPLAINED.md` (Section 9).  
+**POC vs enterprise:** The POC already follows an enterprise-shaped architecture (API + LangGraph agents + tools + LLM + rules + human approval + audit). For production we keep that pattern and upgrade hosting, SSO, core-banking/CRM integrations, real WhatsApp, HA databases, job queues, and model risk controls. See the enterprise diagram and Section 9 comparison table.  
+
+**LLM:** POC uses **NVIDIA** for live language steps (mock offline). For better results we can upgrade to **Claude Sonnet** (recommended) or **Claude Opus** / Azure OpenAI — architecture stays the same.  
 
 **Review materials:**  
+- Enterprise architecture diagram: https://github.com/chintanshah9389/RM-AGENTIC-AI/blob/main/architecture.jpg  
 - GitHub: https://github.com/chintanshah9389/RM-AGENTIC-AI  
 - Demo video: https://github.com/chintanshah9389/RM-AGENTIC-AI/blob/main/docs/demo-video/RM-AGENTIC-AI-demo.mp4  
-- Full explanation: `docs/PRODUCT_AND_AI_EXPLAINED.md`  
+- Full explanation: https://github.com/chintanshah9389/RM-AGENTIC-AI/blob/main/docs/PRODUCT_AND_AI_EXPLAINED.md  
 
 Demo login: `rm@demo.bank` / `Demo@123`  
 

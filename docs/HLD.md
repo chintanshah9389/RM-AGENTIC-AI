@@ -237,7 +237,8 @@ The POC uses an **enterprise-shaped** control flow (UI → API → Supervisor/La
 | Scores | Heuristics | Registered ML + policy sign-off |
 | Ops | Laptop demo | Multi-env, observability, SIEM |
 
-Full client-facing table: [PRODUCT_AND_AI_EXPLAINED.md §9](./PRODUCT_AND_AI_EXPLAINED.md#9-poc-vs-enterprise--same-architecture-different-maturity).
+Enterprise target diagram: [architecture.jpg](../architecture.jpg)  
+Full client-facing POC vs Enterprise table: [PRODUCT_AND_AI_EXPLAINED.md §9](./PRODUCT_AND_AI_EXPLAINED.md#9-poc-vs-enterprise--same-architecture-different-maturity).
 
 ---
 
