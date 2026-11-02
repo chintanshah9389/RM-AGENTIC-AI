@@ -1,0 +1,1402 @@
+[
+  {
+    "transactionId": "9e3deb9f-01e9-4ab7-bce2-d94bf2166414",
+    "customerId": "07bee9db-e72e-4e06-a1bb-ca1dcf64c1ba",
+    "amount": 6319.09,
+    "category": "EMI",
+    "type": "DEBIT"
+  },
+  {
+    "transactionId": "523d218f-8964-4bc2-ac20-fd094f07afee",
+    "customerId": "07bee9db-e72e-4e06-a1bb-ca1dcf64c1ba",
+    "amount": 5952.22,
+    "category": "DINING",
+    "type": "DEBIT"
+  },
+  {
+    "transactionId": "0898ef86-f730-4814-8683-ef2de4c47e83",
+    "customerId": "07bee9db-e72e-4e06-a1bb-ca1dcf64c1ba",
+    "amount": 13414.43,
+    "category": "SHOPPING",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "9bf46762-41d2-49bc-81f6-972f2379cc15",
+    "customerId": "07bee9db-e72e-4e06-a1bb-ca1dcf64c1ba",
+    "amount": 42051.94,
+    "category": "TRAVEL",
+    "type": "DEBIT"
+  },
+  {
+    "transactionId": "a105e963-3188-4878-a479-58b28949a278",
+    "customerId": "07bee9db-e72e-4e06-a1bb-ca1dcf64c1ba",
+    "amount": 44820.64,
+    "category": "TRAVEL",
+    "type": "DEBIT"
+  },
+  {
+    "transactionId": "b6fe5c2a-7278-4f50-8496-eb4d870a9071",
+    "customerId": "07bee9db-e72e-4e06-a1bb-ca1dcf64c1ba",
+    "amount": 4507.18,
+    "category": "INVESTMENT",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "358144c1-89af-4895-8b08-325525f766e7",
+    "customerId": "07bee9db-e72e-4e06-a1bb-ca1dcf64c1ba",
+    "amount": 2665.29,
+    "category": "DINING",
+    "type": "DEBIT"
+  },
+  {
+    "transactionId": "9ee2c101-22d7-43b7-9b1b-05c819a90c31",
+    "customerId": "07bee9db-e72e-4e06-a1bb-ca1dcf64c1ba",
+    "amount": 38199.17,
+    "category": "UTILITY",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "e0e5c000-5d17-4fbf-9aa6-691da67b99cd",
+    "customerId": "07bee9db-e72e-4e06-a1bb-ca1dcf64c1ba",
+    "amount": 16784.21,
+    "category": "EMI",
+    "type": "DEBIT"
+  },
+  {
+    "transactionId": "3dccde2f-3969-4cf5-902c-307377286274",
+    "customerId": "07bee9db-e72e-4e06-a1bb-ca1dcf64c1ba",
+    "amount": 3772.16,
+    "category": "EMI",
+    "type": "DEBIT"
+  },
+  {
+    "transactionId": "705110ef-2f0c-48fc-91fb-336a7fdc1b6c",
+    "customerId": "0db5bc7e-4f72-4131-8f4f-c9b3f8ed0637",
+    "amount": 90000.0,
+    "category": "SALARY",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "8cedbdcb-18c8-45f2-86a7-d3e543f11296",
+    "customerId": "0db5bc7e-4f72-4131-8f4f-c9b3f8ed0637",
+    "amount": 5568.01,
+    "category": "TRANSFER",
+    "type": "DEBIT"
+  },
+  {
+    "transactionId": "7ab610b8-de93-4589-890a-41a81ad27743",
+    "customerId": "0db5bc7e-4f72-4131-8f4f-c9b3f8ed0637",
+    "amount": 42908.71,
+    "category": "EDUCATION",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "53375b3d-a21b-4009-9cd1-e5568aae2d6d",
+    "customerId": "0db5bc7e-4f72-4131-8f4f-c9b3f8ed0637",
+    "amount": 36943.97,
+    "category": "UTILITY",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "08965e94-c620-4ae3-8875-706c2331adcb",
+    "customerId": "0db5bc7e-4f72-4131-8f4f-c9b3f8ed0637",
+    "amount": 11269.94,
+    "category": "TRAVEL",
+    "type": "DEBIT"
+  },
+  {
+    "transactionId": "904ccba2-96ad-4061-9324-53eb078751f4",
+    "customerId": "0db5bc7e-4f72-4131-8f4f-c9b3f8ed0637",
+    "amount": 20483.47,
+    "category": "TRANSFER",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "0e2f9329-f46f-43c1-81ff-94b41bcf4b9b",
+    "customerId": "0db5bc7e-4f72-4131-8f4f-c9b3f8ed0637",
+    "amount": 24692.21,
+    "category": "INSURANCE",
+    "type": "DEBIT"
+  },
+  {
+    "transactionId": "715d82ae-932f-401c-a66f-a5bcf51f7b4e",
+    "customerId": "0db5bc7e-4f72-4131-8f4f-c9b3f8ed0637",
+    "amount": 29763.27,
+    "category": "SHOPPING",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "fa9d6d7d-8b1b-44ea-9934-b7b45acd5aa4",
+    "customerId": "0db5bc7e-4f72-4131-8f4f-c9b3f8ed0637",
+    "amount": 43523.1,
+    "category": "HEALTHCARE",
+    "type": "DEBIT"
+  },
+  {
+    "transactionId": "204902b7-db98-42a0-bb06-e53c64030f00",
+    "customerId": "0db5bc7e-4f72-4131-8f4f-c9b3f8ed0637",
+    "amount": 90000.0,
+    "category": "SALARY",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "a4207bdf-9ad8-47a4-ac29-222dac0b1a7b",
+    "customerId": "0db5bc7e-4f72-4131-8f4f-c9b3f8ed0637",
+    "amount": 20337.15,
+    "category": "INSURANCE",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "b2faac9e-d6e7-414a-8956-34f597243d32",
+    "customerId": "0db5bc7e-4f72-4131-8f4f-c9b3f8ed0637",
+    "amount": 21983.31,
+    "category": "EMI",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "0cc27a56-acd8-4abb-9299-ca5ab82cf956",
+    "customerId": "0ed02f41-26fb-499f-859a-798975b7e508",
+    "amount": 2740.61,
+    "category": "EMI",
+    "type": "DEBIT"
+  },
+  {
+    "transactionId": "aea22bbb-b40f-48b9-a736-8f3ab1ce9b84",
+    "customerId": "0ed02f41-26fb-499f-859a-798975b7e508",
+    "amount": 20929.71,
+    "category": "DINING",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "0d7e91ff-6999-4051-a14f-bda3eab19189",
+    "customerId": "0ed02f41-26fb-499f-859a-798975b7e508",
+    "amount": 14564.74,
+    "category": "INVESTMENT",
+    "type": "DEBIT"
+  },
+  {
+    "transactionId": "597eb96b-c362-4866-88e9-3571241f548c",
+    "customerId": "0ed02f41-26fb-499f-859a-798975b7e508",
+    "amount": 2094.52,
+    "category": "TRANSFER",
+    "type": "DEBIT"
+  },
+  {
+    "transactionId": "6da691e2-f9be-4408-a953-478df53fc31a",
+    "customerId": "0ed02f41-26fb-499f-859a-798975b7e508",
+    "amount": 40109.93,
+    "category": "HEALTHCARE",
+    "type": "DEBIT"
+  },
+  {
+    "transactionId": "ae1dff5e-06b1-4e98-ad25-5614a5320d6b",
+    "customerId": "0ed02f41-26fb-499f-859a-798975b7e508",
+    "amount": 37226.34,
+    "category": "EMI",
+    "type": "DEBIT"
+  },
+  {
+    "transactionId": "f5ef670b-5a62-430e-a195-1f1c15abfacd",
+    "customerId": "0ed02f41-26fb-499f-859a-798975b7e508",
+    "amount": 32391.28,
+    "category": "EMI",
+    "type": "DEBIT"
+  },
+  {
+    "transactionId": "6337b558-8871-4a90-9d86-29ca14f2caff",
+    "customerId": "0ed02f41-26fb-499f-859a-798975b7e508",
+    "amount": 597.76,
+    "category": "SHOPPING",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "e17c653e-43f2-418e-8778-2558e1012d3e",
+    "customerId": "0ed02f41-26fb-499f-859a-798975b7e508",
+    "amount": 40411.03,
+    "category": "SHOPPING",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "d3ec0b25-22d8-462b-8375-7d4f6699ba28",
+    "customerId": "0ed02f41-26fb-499f-859a-798975b7e508",
+    "amount": 27682.9,
+    "category": "SHOPPING",
+    "type": "DEBIT"
+  },
+  {
+    "transactionId": "8b2ab8ee-d77c-4172-870f-166456fbf71b",
+    "customerId": "151110f1-9a4d-4c8b-a277-3f5fee5611b9",
+    "amount": 90000.0,
+    "category": "SALARY",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "3e6640b9-4dc0-408e-b4b5-5486051cb948",
+    "customerId": "151110f1-9a4d-4c8b-a277-3f5fee5611b9",
+    "amount": 90000.0,
+    "category": "SALARY",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "f3ddaf5a-fb99-45d7-bb1b-92b1e26d310c",
+    "customerId": "151110f1-9a4d-4c8b-a277-3f5fee5611b9",
+    "amount": 90000.0,
+    "category": "SALARY",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "12d3fec9-6857-4999-96aa-747f084f0813",
+    "customerId": "151110f1-9a4d-4c8b-a277-3f5fee5611b9",
+    "amount": 13380.4,
+    "category": "TRAVEL",
+    "type": "DEBIT"
+  },
+  {
+    "transactionId": "ad4d3c4e-4183-4691-9dcd-3436a8880651",
+    "customerId": "151110f1-9a4d-4c8b-a277-3f5fee5611b9",
+    "amount": 6248.76,
+    "category": "TRANSFER",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "df1c5e47-9d92-4f20-ad77-0e809a94ce18",
+    "customerId": "151110f1-9a4d-4c8b-a277-3f5fee5611b9",
+    "amount": 38848.51,
+    "category": "SHOPPING",
+    "type": "DEBIT"
+  },
+  {
+    "transactionId": "beda1ff7-6720-49fb-8171-9a26db54244e",
+    "customerId": "151110f1-9a4d-4c8b-a277-3f5fee5611b9",
+    "amount": 38863.9,
+    "category": "INVESTMENT",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "57cdf391-402c-4424-94be-2b132d7a420b",
+    "customerId": "151110f1-9a4d-4c8b-a277-3f5fee5611b9",
+    "amount": 13383.43,
+    "category": "EDUCATION",
+    "type": "DEBIT"
+  },
+  {
+    "transactionId": "f098c936-b58f-43eb-aded-2ad8758f576a",
+    "customerId": "1b56a082-e66b-46e4-b28e-a91f728ad753",
+    "amount": 44998.96,
+    "category": "DINING",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "29b49b4f-8187-4a75-86bd-624ce3eb230b",
+    "customerId": "1b56a082-e66b-46e4-b28e-a91f728ad753",
+    "amount": 29955.85,
+    "category": "SHOPPING",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "1fd7e4dc-ac3c-4751-9687-888c055b407c",
+    "customerId": "1b56a082-e66b-46e4-b28e-a91f728ad753",
+    "amount": 8547.65,
+    "category": "TRAVEL",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "386899d7-c571-425d-829c-0c5996448fda",
+    "customerId": "1b56a082-e66b-46e4-b28e-a91f728ad753",
+    "amount": 35000.0,
+    "category": "SALARY",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "1e75d5fc-b10c-4bc2-a973-e7bee4e3075f",
+    "customerId": "1b56a082-e66b-46e4-b28e-a91f728ad753",
+    "amount": 33981.41,
+    "category": "INVESTMENT",
+    "type": "DEBIT"
+  },
+  {
+    "transactionId": "f5d14b6e-2170-49eb-88b0-8391891ddbe2",
+    "customerId": "1b56a082-e66b-46e4-b28e-a91f728ad753",
+    "amount": 14271.32,
+    "category": "INSURANCE",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "a3e0e39c-1e2a-4ccc-a25c-d819927e0e0c",
+    "customerId": "1b56a082-e66b-46e4-b28e-a91f728ad753",
+    "amount": 21044.76,
+    "category": "EMI",
+    "type": "DEBIT"
+  },
+  {
+    "transactionId": "298672b0-a29c-4d72-87b3-7397e2c5c103",
+    "customerId": "1b56a082-e66b-46e4-b28e-a91f728ad753",
+    "amount": 36156.04,
+    "category": "TRAVEL",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "0d55edbf-b4e1-494a-8d6a-01a40ee9a704",
+    "customerId": "1b56a082-e66b-46e4-b28e-a91f728ad753",
+    "amount": 39398.2,
+    "category": "EDUCATION",
+    "type": "DEBIT"
+  },
+  {
+    "transactionId": "4f4f995d-6fa1-471e-a4b9-f08192fb34d8",
+    "customerId": "1b56a082-e66b-46e4-b28e-a91f728ad753",
+    "amount": 34458.7,
+    "category": "UTILITY",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "ecb8fc49-6522-4fd6-9d32-1c23ee24cc40",
+    "customerId": "23814bf5-e2dc-48ff-8de9-907306e0553f",
+    "amount": 15476.97,
+    "category": "HEALTHCARE",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "0251f045-447f-4ecf-a586-f2d4f1888235",
+    "customerId": "23814bf5-e2dc-48ff-8de9-907306e0553f",
+    "amount": 29388.52,
+    "category": "TRANSFER",
+    "type": "DEBIT"
+  },
+  {
+    "transactionId": "b67e2155-dab3-4828-be27-0d12f204f2d3",
+    "customerId": "23814bf5-e2dc-48ff-8de9-907306e0553f",
+    "amount": 17338.09,
+    "category": "EDUCATION",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "e98839ec-0a86-421c-945d-d049e0a859d3",
+    "customerId": "23814bf5-e2dc-48ff-8de9-907306e0553f",
+    "amount": 42721.07,
+    "category": "TRAVEL",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "44b60ad1-b3b1-4ab8-babf-b56425c96caf",
+    "customerId": "23814bf5-e2dc-48ff-8de9-907306e0553f",
+    "amount": 41486.2,
+    "category": "TRAVEL",
+    "type": "DEBIT"
+  },
+  {
+    "transactionId": "29ed08a0-e698-48fa-a982-1adaa3b9bc24",
+    "customerId": "23814bf5-e2dc-48ff-8de9-907306e0553f",
+    "amount": 15236.99,
+    "category": "INVESTMENT",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "774d1c38-2497-47d0-b61d-2c58010d4bec",
+    "customerId": "23814bf5-e2dc-48ff-8de9-907306e0553f",
+    "amount": 28810.31,
+    "category": "EMI",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "35c78a29-f264-4d37-a79a-9b5382e82640",
+    "customerId": "23814bf5-e2dc-48ff-8de9-907306e0553f",
+    "amount": 28000.0,
+    "category": "SALARY",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "33b1597c-e188-44dd-a347-45a3dac49aa6",
+    "customerId": "23814bf5-e2dc-48ff-8de9-907306e0553f",
+    "amount": 11921.28,
+    "category": "SHOPPING",
+    "type": "DEBIT"
+  },
+  {
+    "transactionId": "6954e4d2-b02c-417c-af64-b074016adf0f",
+    "customerId": "23814bf5-e2dc-48ff-8de9-907306e0553f",
+    "amount": 33100.01,
+    "category": "TRANSFER",
+    "type": "DEBIT"
+  },
+  {
+    "transactionId": "452cfe06-9bb1-42d4-b08b-ad4a5e38825d",
+    "customerId": "23814bf5-e2dc-48ff-8de9-907306e0553f",
+    "amount": 24798.07,
+    "category": "TRANSFER",
+    "type": "DEBIT"
+  },
+  {
+    "transactionId": "3c32adad-1fb3-473f-914d-5811e9e6ce56",
+    "customerId": "23814bf5-e2dc-48ff-8de9-907306e0553f",
+    "amount": 3780.07,
+    "category": "TRAVEL",
+    "type": "DEBIT"
+  },
+  {
+    "transactionId": "e55028f6-b82c-4e90-a30a-f64e737dbaee",
+    "customerId": "23814bf5-e2dc-48ff-8de9-907306e0553f",
+    "amount": 28000.0,
+    "category": "SALARY",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "e9838185-e8dc-4d73-ac3b-c77145799706",
+    "customerId": "3596a65c-a979-4472-8d6c-b545d7b2b9f2",
+    "amount": 16155.57,
+    "category": "TRANSFER",
+    "type": "DEBIT"
+  },
+  {
+    "transactionId": "a5d21123-8b32-4808-8cac-62b93019b66e",
+    "customerId": "3596a65c-a979-4472-8d6c-b545d7b2b9f2",
+    "amount": 5869.19,
+    "category": "UTILITY",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "841db140-3d16-46c2-9e36-3e1326ff4fc3",
+    "customerId": "3596a65c-a979-4472-8d6c-b545d7b2b9f2",
+    "amount": 9023.57,
+    "category": "INSURANCE",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "adecddf5-dca5-43db-a904-f6f6dd8b8137",
+    "customerId": "3596a65c-a979-4472-8d6c-b545d7b2b9f2",
+    "amount": 44132.72,
+    "category": "HEALTHCARE",
+    "type": "DEBIT"
+  },
+  {
+    "transactionId": "28d24a00-a7b0-4c69-9230-31f3c373214d",
+    "customerId": "3596a65c-a979-4472-8d6c-b545d7b2b9f2",
+    "amount": 8485.15,
+    "category": "DINING",
+    "type": "DEBIT"
+  },
+  {
+    "transactionId": "4127770f-229e-47cc-8191-4c8b5daaca53",
+    "customerId": "3596a65c-a979-4472-8d6c-b545d7b2b9f2",
+    "amount": 60000.0,
+    "category": "SALARY",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "7b03b086-ce85-43b3-a3e3-45aaf37a4b33",
+    "customerId": "3596a65c-a979-4472-8d6c-b545d7b2b9f2",
+    "amount": 5065.15,
+    "category": "EDUCATION",
+    "type": "DEBIT"
+  },
+  {
+    "transactionId": "4ab9d5ad-741d-46c5-ab8a-50fb25020aa1",
+    "customerId": "3596a65c-a979-4472-8d6c-b545d7b2b9f2",
+    "amount": 15661.41,
+    "category": "INVESTMENT",
+    "type": "DEBIT"
+  },
+  {
+    "transactionId": "d0ea05a4-1ed3-429e-8a3c-674c637cddd3",
+    "customerId": "3596a65c-a979-4472-8d6c-b545d7b2b9f2",
+    "amount": 18331.48,
+    "category": "SHOPPING",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "0bd1cddb-3d35-40e7-b443-b59e8f4310a4",
+    "customerId": "3596a65c-a979-4472-8d6c-b545d7b2b9f2",
+    "amount": 4290.55,
+    "category": "TRAVEL",
+    "type": "DEBIT"
+  },
+  {
+    "transactionId": "5a82dd7e-ee48-4f5e-a2f3-bd0355451ada",
+    "customerId": "3596a65c-a979-4472-8d6c-b545d7b2b9f2",
+    "amount": 35018.36,
+    "category": "HEALTHCARE",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "8771fe1c-bd6d-480e-8738-d9ee2ab56f34",
+    "customerId": "3596a65c-a979-4472-8d6c-b545d7b2b9f2",
+    "amount": 14089.42,
+    "category": "UTILITY",
+    "type": "DEBIT"
+  },
+  {
+    "transactionId": "c6dddc7e-04f7-4648-ab5d-66a1e3cb5397",
+    "customerId": "3a19c66d-df44-4da3-b16b-80b03c019043",
+    "amount": 45000.0,
+    "category": "SALARY",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "6ddc76ca-1853-4886-b828-0afc7e03b521",
+    "customerId": "3a19c66d-df44-4da3-b16b-80b03c019043",
+    "amount": 45000.0,
+    "category": "SALARY",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "5e8f6151-cb83-4597-993e-37cc0b8f9b00",
+    "customerId": "3a19c66d-df44-4da3-b16b-80b03c019043",
+    "amount": 4579.47,
+    "category": "SHOPPING",
+    "type": "DEBIT"
+  },
+  {
+    "transactionId": "0dfed80b-d3d6-4615-95ec-a6f127514e43",
+    "customerId": "3a19c66d-df44-4da3-b16b-80b03c019043",
+    "amount": 44502.53,
+    "category": "EMI",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "8bbde1e8-3f98-4f25-97a1-24d4867e1cc9",
+    "customerId": "3a19c66d-df44-4da3-b16b-80b03c019043",
+    "amount": 26594.05,
+    "category": "INSURANCE",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "1852eb40-c156-4e87-b187-d78ab0dfc533",
+    "customerId": "3a19c66d-df44-4da3-b16b-80b03c019043",
+    "amount": 12838.73,
+    "category": "TRAVEL",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "3e0de4e2-b53f-416a-838d-954ede8a76b7",
+    "customerId": "3a19c66d-df44-4da3-b16b-80b03c019043",
+    "amount": 29917.07,
+    "category": "TRAVEL",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "cc28e026-f0c8-4868-ad88-1d1b39b91496",
+    "customerId": "3a19c66d-df44-4da3-b16b-80b03c019043",
+    "amount": 26703.96,
+    "category": "EMI",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "a548b9f6-fad3-48f2-a174-94a82d5b30ee",
+    "customerId": "3a19c66d-df44-4da3-b16b-80b03c019043",
+    "amount": 45000.0,
+    "category": "SALARY",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "4724c54d-cdad-4d68-b5d7-4e34ab7a57f4",
+    "customerId": "3a19c66d-df44-4da3-b16b-80b03c019043",
+    "amount": 20448.25,
+    "category": "SHOPPING",
+    "type": "DEBIT"
+  },
+  {
+    "transactionId": "58a0d52c-7c66-4b1c-8658-22c8fe4f8828",
+    "customerId": "3a19c66d-df44-4da3-b16b-80b03c019043",
+    "amount": 42571.0,
+    "category": "INSURANCE",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "471dc95c-9a20-4e2d-8898-c18565a36b31",
+    "customerId": "3a19c66d-df44-4da3-b16b-80b03c019043",
+    "amount": 3206.73,
+    "category": "EDUCATION",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "04394e93-c006-4a69-a52c-49c11d3245fd",
+    "customerId": "3a19c66d-df44-4da3-b16b-80b03c019043",
+    "amount": 22316.96,
+    "category": "EDUCATION",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "fa6edf59-6b98-4432-a3b3-f5863a6a4965",
+    "customerId": "3a19c66d-df44-4da3-b16b-80b03c019043",
+    "amount": 27569.24,
+    "category": "SHOPPING",
+    "type": "DEBIT"
+  },
+  {
+    "transactionId": "af0ea105-9319-4995-bacd-8343f7b8cb47",
+    "customerId": "3a27acfd-b44d-4e8d-a76a-573dbeeb6c82",
+    "amount": 40673.59,
+    "category": "SHOPPING",
+    "type": "DEBIT"
+  },
+  {
+    "transactionId": "f02b2535-9360-40a2-bf37-113e49d7fc4e",
+    "customerId": "3a27acfd-b44d-4e8d-a76a-573dbeeb6c82",
+    "amount": 8193.11,
+    "category": "SHOPPING",
+    "type": "DEBIT"
+  },
+  {
+    "transactionId": "8f0ad494-55ca-4977-9401-c1a73af75b8c",
+    "customerId": "3a27acfd-b44d-4e8d-a76a-573dbeeb6c82",
+    "amount": 19340.18,
+    "category": "TRAVEL",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "2a32112b-4584-4e8d-9fc5-67ab375b2cf9",
+    "customerId": "3a27acfd-b44d-4e8d-a76a-573dbeeb6c82",
+    "amount": 37617.81,
+    "category": "EDUCATION",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "98ceb372-4bb8-40ff-9ca5-76334af07309",
+    "customerId": "3a27acfd-b44d-4e8d-a76a-573dbeeb6c82",
+    "amount": 25258.21,
+    "category": "SHOPPING",
+    "type": "DEBIT"
+  },
+  {
+    "transactionId": "f1177978-0fe5-44e3-9e5d-aa60fa255012",
+    "customerId": "3a27acfd-b44d-4e8d-a76a-573dbeeb6c82",
+    "amount": 41313.71,
+    "category": "INSURANCE",
+    "type": "DEBIT"
+  },
+  {
+    "transactionId": "fbd1c79b-dd99-451c-bde5-5271cd96666b",
+    "customerId": "3a27acfd-b44d-4e8d-a76a-573dbeeb6c82",
+    "amount": 7094.89,
+    "category": "TRANSFER",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "f2c3a004-7a91-4ed2-91c3-04682f719fed",
+    "customerId": "3a27acfd-b44d-4e8d-a76a-573dbeeb6c82",
+    "amount": 35465.68,
+    "category": "HEALTHCARE",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "a740f06e-bdf7-414f-b76d-321a91ea2ad4",
+    "customerId": "3a27acfd-b44d-4e8d-a76a-573dbeeb6c82",
+    "amount": 29638.05,
+    "category": "UTILITY",
+    "type": "DEBIT"
+  },
+  {
+    "transactionId": "684f6296-5573-4c78-ae72-92c2b2319e8b",
+    "customerId": "3a27acfd-b44d-4e8d-a76a-573dbeeb6c82",
+    "amount": 18432.34,
+    "category": "TRAVEL",
+    "type": "DEBIT"
+  },
+  {
+    "transactionId": "755e0836-c71a-4775-9692-a7b684c7886f",
+    "customerId": "3a27acfd-b44d-4e8d-a76a-573dbeeb6c82",
+    "amount": 31227.86,
+    "category": "TRANSFER",
+    "type": "DEBIT"
+  },
+  {
+    "transactionId": "a3ca31f7-7c7f-4ae0-be7d-2203de337bab",
+    "customerId": "42daf735-31b5-4b1d-8b7e-7505c9d557b9",
+    "amount": 29591.24,
+    "category": "UTILITY",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "a958c1e7-dbe8-4f0a-a6e5-f2f964241613",
+    "customerId": "42daf735-31b5-4b1d-8b7e-7505c9d557b9",
+    "amount": 17284.05,
+    "category": "TRANSFER",
+    "type": "DEBIT"
+  },
+  {
+    "transactionId": "630c1538-2051-46ae-89c8-28f293bf7dcd",
+    "customerId": "42daf735-31b5-4b1d-8b7e-7505c9d557b9",
+    "amount": 22743.7,
+    "category": "TRAVEL",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "bc683dd6-1a0e-4812-994a-6bd733d98e84",
+    "customerId": "42daf735-31b5-4b1d-8b7e-7505c9d557b9",
+    "amount": 10724.61,
+    "category": "INSURANCE",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "ae1933c2-072a-4ebb-bdb8-ee1843ea1bd4",
+    "customerId": "42daf735-31b5-4b1d-8b7e-7505c9d557b9",
+    "amount": 75000.0,
+    "category": "SALARY",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "6e7a67d1-dcd0-4a63-9a59-6fdbc9a3c53c",
+    "customerId": "42daf735-31b5-4b1d-8b7e-7505c9d557b9",
+    "amount": 8481.28,
+    "category": "INSURANCE",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "31fd08e3-76a9-4667-90ed-b3959879ecd4",
+    "customerId": "42daf735-31b5-4b1d-8b7e-7505c9d557b9",
+    "amount": 33975.32,
+    "category": "DINING",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "7f861ea8-d979-4986-9fc9-96ac800d7649",
+    "customerId": "42daf735-31b5-4b1d-8b7e-7505c9d557b9",
+    "amount": 25596.14,
+    "category": "UTILITY",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "d87cf027-2a05-4405-b4b8-57797f0f1cf1",
+    "customerId": "42daf735-31b5-4b1d-8b7e-7505c9d557b9",
+    "amount": 35677.16,
+    "category": "TRANSFER",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "460da9c3-9864-4f65-abd8-77d3290bb500",
+    "customerId": "42daf735-31b5-4b1d-8b7e-7505c9d557b9",
+    "amount": 75000.0,
+    "category": "SALARY",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "0c65381a-b6e7-4bfa-9d32-d66f9d6019bb",
+    "customerId": "42daf735-31b5-4b1d-8b7e-7505c9d557b9",
+    "amount": 27430.01,
+    "category": "SHOPPING",
+    "type": "DEBIT"
+  },
+  {
+    "transactionId": "947bcf78-0e9c-451f-89a5-6440cd010806",
+    "customerId": "42daf735-31b5-4b1d-8b7e-7505c9d557b9",
+    "amount": 75000.0,
+    "category": "SALARY",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "838169c7-6e59-4208-9a05-65ef7e76c0ab",
+    "customerId": "42daf735-31b5-4b1d-8b7e-7505c9d557b9",
+    "amount": 16333.6,
+    "category": "INVESTMENT",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "cb4bc3db-121a-42b3-9bf7-a5e5aa04196b",
+    "customerId": "44b6b51c-00ef-40df-aa86-d38d30cb3b86",
+    "amount": 19678.59,
+    "category": "SHOPPING",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "9f1bf17d-45db-4f49-8cbe-7d9e66edb4cc",
+    "customerId": "44b6b51c-00ef-40df-aa86-d38d30cb3b86",
+    "amount": 35000.0,
+    "category": "SALARY",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "9edc1fcd-8341-4804-89ee-c41c37f0adf4",
+    "customerId": "44b6b51c-00ef-40df-aa86-d38d30cb3b86",
+    "amount": 38935.46,
+    "category": "HEALTHCARE",
+    "type": "DEBIT"
+  },
+  {
+    "transactionId": "9fe11aff-3779-48a6-b5bb-ea1d43ffcea8",
+    "customerId": "44b6b51c-00ef-40df-aa86-d38d30cb3b86",
+    "amount": 32755.55,
+    "category": "TRANSFER",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "2c555fb7-3cb3-4e5c-8e6e-0b2ae0ef19f7",
+    "customerId": "44b6b51c-00ef-40df-aa86-d38d30cb3b86",
+    "amount": 8042.83,
+    "category": "EDUCATION",
+    "type": "DEBIT"
+  },
+  {
+    "transactionId": "c822b706-5f5a-489e-8dd4-def9d86477d5",
+    "customerId": "44b6b51c-00ef-40df-aa86-d38d30cb3b86",
+    "amount": 3315.39,
+    "category": "INVESTMENT",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "a746413e-870e-48f5-acb1-4dabf01ee2c3",
+    "customerId": "44b6b51c-00ef-40df-aa86-d38d30cb3b86",
+    "amount": 35328.66,
+    "category": "UTILITY",
+    "type": "DEBIT"
+  },
+  {
+    "transactionId": "6d95356f-ae4a-40b2-8246-1fe7f839d460",
+    "customerId": "44b6b51c-00ef-40df-aa86-d38d30cb3b86",
+    "amount": 26924.38,
+    "category": "EDUCATION",
+    "type": "DEBIT"
+  },
+  {
+    "transactionId": "e86a171d-d7e4-4df1-9ede-fc45cbd0d498",
+    "customerId": "4fbae2c6-def3-4dc8-991d-f7ad1005e0d0",
+    "amount": 150000.0,
+    "category": "SALARY",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "72af2f67-ca79-4ccc-854a-efc4c7ff2548",
+    "customerId": "4fbae2c6-def3-4dc8-991d-f7ad1005e0d0",
+    "amount": 29417.73,
+    "category": "EMI",
+    "type": "DEBIT"
+  },
+  {
+    "transactionId": "52691205-fa2e-43f1-8d93-4b23c16db99d",
+    "customerId": "4fbae2c6-def3-4dc8-991d-f7ad1005e0d0",
+    "amount": 39321.04,
+    "category": "EMI",
+    "type": "DEBIT"
+  },
+  {
+    "transactionId": "7bc2672f-da3c-4cf6-939b-3492737e033f",
+    "customerId": "4fbae2c6-def3-4dc8-991d-f7ad1005e0d0",
+    "amount": 44885.45,
+    "category": "EDUCATION",
+    "type": "DEBIT"
+  },
+  {
+    "transactionId": "98d88a4f-1af8-46aa-b315-b67dd160ba39",
+    "customerId": "4fbae2c6-def3-4dc8-991d-f7ad1005e0d0",
+    "amount": 20243.7,
+    "category": "SHOPPING",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "087b0120-00f9-4fd1-9920-379e13a23b39",
+    "customerId": "4fbae2c6-def3-4dc8-991d-f7ad1005e0d0",
+    "amount": 150000.0,
+    "category": "SALARY",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "03e22205-a745-44f3-a9b0-d2ba5c2e164f",
+    "customerId": "4fbae2c6-def3-4dc8-991d-f7ad1005e0d0",
+    "amount": 19665.56,
+    "category": "EMI",
+    "type": "DEBIT"
+  },
+  {
+    "transactionId": "d31e0187-3a0b-43cb-8d97-331ac6271ffd",
+    "customerId": "4fbae2c6-def3-4dc8-991d-f7ad1005e0d0",
+    "amount": 4014.09,
+    "category": "TRAVEL",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "93fd5d56-6cef-4aee-987e-e47190500f43",
+    "customerId": "4fbae2c6-def3-4dc8-991d-f7ad1005e0d0",
+    "amount": 10832.39,
+    "category": "INVESTMENT",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "7179569c-7f95-450f-bed3-ffc7cf52eb53",
+    "customerId": "4fbae2c6-def3-4dc8-991d-f7ad1005e0d0",
+    "amount": 40501.43,
+    "category": "UTILITY",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "e5ddea5c-d75d-4524-b1ec-9d6a9f4747f8",
+    "customerId": "4fbae2c6-def3-4dc8-991d-f7ad1005e0d0",
+    "amount": 42562.99,
+    "category": "SHOPPING",
+    "type": "DEBIT"
+  },
+  {
+    "transactionId": "fc3406cd-d42f-477c-bef0-731aeafc128f",
+    "customerId": "4fbae2c6-def3-4dc8-991d-f7ad1005e0d0",
+    "amount": 38116.02,
+    "category": "UTILITY",
+    "type": "DEBIT"
+  },
+  {
+    "transactionId": "616c252d-d5c7-4661-8d11-26447c298229",
+    "customerId": "4fbae2c6-def3-4dc8-991d-f7ad1005e0d0",
+    "amount": 17470.71,
+    "category": "SHOPPING",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "6039a114-dcb7-4ba4-8a54-9caceffff00d",
+    "customerId": "5771160a-ea12-448d-9297-efd092efd7e8",
+    "amount": 110000.0,
+    "category": "SALARY",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "b09e9b95-b56f-47cc-81fb-517d6e661674",
+    "customerId": "5771160a-ea12-448d-9297-efd092efd7e8",
+    "amount": 110000.0,
+    "category": "SALARY",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "3507f031-ff12-4baa-8588-6af3d7f8c758",
+    "customerId": "5771160a-ea12-448d-9297-efd092efd7e8",
+    "amount": 30813.04,
+    "category": "INVESTMENT",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "d83493a1-21e2-4bdb-8ec5-52765066405f",
+    "customerId": "5771160a-ea12-448d-9297-efd092efd7e8",
+    "amount": 21746.46,
+    "category": "TRANSFER",
+    "type": "DEBIT"
+  },
+  {
+    "transactionId": "39d2d4a2-9c2a-4554-83fb-00e3fcceec82",
+    "customerId": "5771160a-ea12-448d-9297-efd092efd7e8",
+    "amount": 40903.19,
+    "category": "UTILITY",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "c5cd317f-4d8a-4762-949c-6315ca302ca7",
+    "customerId": "5771160a-ea12-448d-9297-efd092efd7e8",
+    "amount": 39759.9,
+    "category": "TRAVEL",
+    "type": "DEBIT"
+  },
+  {
+    "transactionId": "ac97ae54-4050-493a-bec3-f8349d442906",
+    "customerId": "5771160a-ea12-448d-9297-efd092efd7e8",
+    "amount": 42179.09,
+    "category": "INVESTMENT",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "afe3580b-1a75-4bfa-b584-aad26e20778d",
+    "customerId": "5771160a-ea12-448d-9297-efd092efd7e8",
+    "amount": 110000.0,
+    "category": "SALARY",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "5663df6b-aec7-4d77-8ac7-7f13b0322ba4",
+    "customerId": "5771160a-ea12-448d-9297-efd092efd7e8",
+    "amount": 44514.93,
+    "category": "UTILITY",
+    "type": "DEBIT"
+  },
+  {
+    "transactionId": "c49dc512-cd39-422f-9717-8e360e03ae46",
+    "customerId": "59d79b92-0de9-49c9-a88d-373250e383f3",
+    "amount": 75000.0,
+    "category": "SALARY",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "cc4ca0d1-d136-40dc-af51-085a801cfcdd",
+    "customerId": "59d79b92-0de9-49c9-a88d-373250e383f3",
+    "amount": 38624.58,
+    "category": "HEALTHCARE",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "4ae83bb3-29c0-4b90-b954-ba01f4e7783f",
+    "customerId": "59d79b92-0de9-49c9-a88d-373250e383f3",
+    "amount": 75000.0,
+    "category": "SALARY",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "efc40a66-599b-46e3-a1e1-8b8a74bae94b",
+    "customerId": "59d79b92-0de9-49c9-a88d-373250e383f3",
+    "amount": 22226.21,
+    "category": "TRANSFER",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "85c673df-4d3b-4b16-a54e-0f2e26fafb7f",
+    "customerId": "59d79b92-0de9-49c9-a88d-373250e383f3",
+    "amount": 75000.0,
+    "category": "SALARY",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "ce234e31-cdb1-4cc2-bd01-0151ae26d87c",
+    "customerId": "59d79b92-0de9-49c9-a88d-373250e383f3",
+    "amount": 41419.6,
+    "category": "TRAVEL",
+    "type": "DEBIT"
+  },
+  {
+    "transactionId": "8dfbc637-b8b1-4016-a51c-3653fbc9dff3",
+    "customerId": "59d79b92-0de9-49c9-a88d-373250e383f3",
+    "amount": 4235.66,
+    "category": "HEALTHCARE",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "41360bb7-7c08-4430-8d9f-9f465629834e",
+    "customerId": "59d79b92-0de9-49c9-a88d-373250e383f3",
+    "amount": 12076.96,
+    "category": "TRAVEL",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "52a56cc7-4f47-4cef-b70d-dc1dfcc53a9a",
+    "customerId": "59e04950-7e2b-4480-ad3a-5d5c8a566780",
+    "amount": 39697.67,
+    "category": "UTILITY",
+    "type": "DEBIT"
+  },
+  {
+    "transactionId": "fb8c5225-b84a-47b2-bcdc-58252628b949",
+    "customerId": "59e04950-7e2b-4480-ad3a-5d5c8a566780",
+    "amount": 32085.34,
+    "category": "EDUCATION",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "0c8a5ffe-627e-4e8b-9ce7-6456ecb48e1c",
+    "customerId": "59e04950-7e2b-4480-ad3a-5d5c8a566780",
+    "amount": 44655.44,
+    "category": "SHOPPING",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "bb716736-0ca0-4913-8986-ff4caaa17357",
+    "customerId": "59e04950-7e2b-4480-ad3a-5d5c8a566780",
+    "amount": 22677.71,
+    "category": "SHOPPING",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "d9f963b8-7700-485a-b0d6-de7ce04bfb36",
+    "customerId": "59e04950-7e2b-4480-ad3a-5d5c8a566780",
+    "amount": 44120.89,
+    "category": "TRANSFER",
+    "type": "DEBIT"
+  },
+  {
+    "transactionId": "a4ea2911-3ce0-4e25-889d-6f9bfb6cbee3",
+    "customerId": "59e04950-7e2b-4480-ad3a-5d5c8a566780",
+    "amount": 41523.13,
+    "category": "TRANSFER",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "d132e115-75b2-4b9c-9351-0e035ce33298",
+    "customerId": "59e04950-7e2b-4480-ad3a-5d5c8a566780",
+    "amount": 15624.45,
+    "category": "UTILITY",
+    "type": "DEBIT"
+  },
+  {
+    "transactionId": "2f7dcfdc-5292-41e8-b05d-73b4270db897",
+    "customerId": "59e04950-7e2b-4480-ad3a-5d5c8a566780",
+    "amount": 37767.68,
+    "category": "UTILITY",
+    "type": "DEBIT"
+  },
+  {
+    "transactionId": "fa462b3e-0969-43c8-bef9-030b6d09ddf2",
+    "customerId": "59e04950-7e2b-4480-ad3a-5d5c8a566780",
+    "amount": 15858.02,
+    "category": "INVESTMENT",
+    "type": "DEBIT"
+  },
+  {
+    "transactionId": "4e77045a-a285-4728-ae93-b68350846f49",
+    "customerId": "59e04950-7e2b-4480-ad3a-5d5c8a566780",
+    "amount": 44144.47,
+    "category": "EMI",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "b5ed29be-f3f4-4347-b95a-6a349dc59dbd",
+    "customerId": "5b378a9a-6a4d-4962-aaac-f215abd861f0",
+    "amount": 90000.0,
+    "category": "SALARY",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "9c54db5b-ea08-49f1-a19a-c017fe7d215b",
+    "customerId": "5b378a9a-6a4d-4962-aaac-f215abd861f0",
+    "amount": 37513.85,
+    "category": "SHOPPING",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "106b8a80-7908-41b4-bbe2-053558d10d8e",
+    "customerId": "5b378a9a-6a4d-4962-aaac-f215abd861f0",
+    "amount": 25258.5,
+    "category": "EMI",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "049809be-e967-4b46-9960-808cb67f7ce8",
+    "customerId": "5b378a9a-6a4d-4962-aaac-f215abd861f0",
+    "amount": 39375.53,
+    "category": "TRANSFER",
+    "type": "DEBIT"
+  },
+  {
+    "transactionId": "73532727-0897-45a8-96b8-03732414ad3e",
+    "customerId": "5b378a9a-6a4d-4962-aaac-f215abd861f0",
+    "amount": 16148.26,
+    "category": "UTILITY",
+    "type": "DEBIT"
+  },
+  {
+    "transactionId": "ecbbe0e4-3579-499c-8750-df7892f598c5",
+    "customerId": "5b378a9a-6a4d-4962-aaac-f215abd861f0",
+    "amount": 10478.9,
+    "category": "EDUCATION",
+    "type": "DEBIT"
+  },
+  {
+    "transactionId": "a2201678-9837-4b90-927c-adcefa9cb06c",
+    "customerId": "5b378a9a-6a4d-4962-aaac-f215abd861f0",
+    "amount": 26047.45,
+    "category": "SHOPPING",
+    "type": "DEBIT"
+  },
+  {
+    "transactionId": "6cff57ce-4ac3-4ed8-9c8b-77e9f0b50063",
+    "customerId": "5b378a9a-6a4d-4962-aaac-f215abd861f0",
+    "amount": 1788.42,
+    "category": "HEALTHCARE",
+    "type": "DEBIT"
+  },
+  {
+    "transactionId": "3c5806af-9515-4ab0-b707-6af11803071d",
+    "customerId": "5b378a9a-6a4d-4962-aaac-f215abd861f0",
+    "amount": 8572.55,
+    "category": "EMI",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "c5d39f74-fece-4f2e-9c0d-d5cf7d4aa59a",
+    "customerId": "5b378a9a-6a4d-4962-aaac-f215abd861f0",
+    "amount": 4583.22,
+    "category": "TRAVEL",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "2a8fa3fa-ebfc-46b7-b109-05a2b1717418",
+    "customerId": "628a9705-4f84-481a-b9bd-e9c33e18f5fa",
+    "amount": 11218.79,
+    "category": "DINING",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "203915cf-c07b-4483-bc93-82d624826ec5",
+    "customerId": "628a9705-4f84-481a-b9bd-e9c33e18f5fa",
+    "amount": 44020.31,
+    "category": "INVESTMENT",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "248c8138-7248-4643-bfce-75a6c61630c1",
+    "customerId": "628a9705-4f84-481a-b9bd-e9c33e18f5fa",
+    "amount": 42634.77,
+    "category": "EDUCATION",
+    "type": "DEBIT"
+  },
+  {
+    "transactionId": "ff269afd-85ac-46f6-acf0-22e4e3d3b8f3",
+    "customerId": "628a9705-4f84-481a-b9bd-e9c33e18f5fa",
+    "amount": 32226.23,
+    "category": "DINING",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "09cc7d65-efbe-403e-8058-51d6422d1fde",
+    "customerId": "628a9705-4f84-481a-b9bd-e9c33e18f5fa",
+    "amount": 5884.69,
+    "category": "INSURANCE",
+    "type": "DEBIT"
+  },
+  {
+    "transactionId": "4f55529e-6119-470a-ab1e-3f4d9a620ad6",
+    "customerId": "628a9705-4f84-481a-b9bd-e9c33e18f5fa",
+    "amount": 55000.0,
+    "category": "SALARY",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "7c99f1a2-7236-4e02-8cc4-fd2c78fe62a3",
+    "customerId": "628a9705-4f84-481a-b9bd-e9c33e18f5fa",
+    "amount": 55000.0,
+    "category": "SALARY",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "09f69708-2f00-4119-8eac-158b5320cbf9",
+    "customerId": "628a9705-4f84-481a-b9bd-e9c33e18f5fa",
+    "amount": 38753.78,
+    "category": "SHOPPING",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "b401baa9-3e0a-44f1-bd43-498302010aae",
+    "customerId": "628a9705-4f84-481a-b9bd-e9c33e18f5fa",
+    "amount": 10033.54,
+    "category": "EDUCATION",
+    "type": "DEBIT"
+  },
+  {
+    "transactionId": "aa091615-c6ef-4a38-9126-26ae33c7c75e",
+    "customerId": "628a9705-4f84-481a-b9bd-e9c33e18f5fa",
+    "amount": 8973.24,
+    "category": "INVESTMENT",
+    "type": "DEBIT"
+  },
+  {
+    "transactionId": "5fc9a12d-c069-4dd3-b606-21eaa4ac5461",
+    "customerId": "628a9705-4f84-481a-b9bd-e9c33e18f5fa",
+    "amount": 21282.6,
+    "category": "TRANSFER",
+    "type": "DEBIT"
+  },
+  {
+    "transactionId": "d894b1c3-c06d-49eb-ad2b-a6ec79632de9",
+    "customerId": "628a9705-4f84-481a-b9bd-e9c33e18f5fa",
+    "amount": 55000.0,
+    "category": "SALARY",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "42067eb3-e435-4826-95f9-0162baf6b2b0",
+    "customerId": "628a9705-4f84-481a-b9bd-e9c33e18f5fa",
+    "amount": 8964.3,
+    "category": "DINING",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "e8141f07-0a2c-46d4-8ea8-389f664acfa9",
+    "customerId": "628a9705-4f84-481a-b9bd-e9c33e18f5fa",
+    "amount": 21086.95,
+    "category": "TRAVEL",
+    "type": "DEBIT"
+  },
+  {
+    "transactionId": "ff144087-6b8a-4521-932a-e7786d688930",
+    "customerId": "6343b2e5-b194-4a17-8f55-3e8c52268adb",
+    "amount": 110000.0,
+    "category": "SALARY",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "fc27f8dc-360e-45b1-8230-87fa94208623",
+    "customerId": "6343b2e5-b194-4a17-8f55-3e8c52268adb",
+    "amount": 39198.1,
+    "category": "TRANSFER",
+    "type": "DEBIT"
+  },
+  {
+    "transactionId": "24b8409d-e21e-480b-902d-ecb5596cb7c4",
+    "customerId": "6343b2e5-b194-4a17-8f55-3e8c52268adb",
+    "amount": 29582.27,
+    "category": "SHOPPING",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "449acf1c-8ec6-45c7-9928-79f11a11e76a",
+    "customerId": "6343b2e5-b194-4a17-8f55-3e8c52268adb",
+    "amount": 24033.49,
+    "category": "INSURANCE",
+    "type": "DEBIT"
+  },
+  {
+    "transactionId": "bec7b53a-c965-472d-bcd7-40e999f1a962",
+    "customerId": "6343b2e5-b194-4a17-8f55-3e8c52268adb",
+    "amount": 110000.0,
+    "category": "SALARY",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "3cc6390e-9691-4591-b046-bf44342591d1",
+    "customerId": "6343b2e5-b194-4a17-8f55-3e8c52268adb",
+    "amount": 37139.54,
+    "category": "INSURANCE",
+    "type": "DEBIT"
+  },
+  {
+    "transactionId": "43114acc-ad38-47a9-be53-51db788653c9",
+    "customerId": "6343b2e5-b194-4a17-8f55-3e8c52268adb",
+    "amount": 8887.38,
+    "category": "TRAVEL",
+    "type": "DEBIT"
+  },
+  {
+    "transactionId": "f0ff5b04-0df2-4d01-b977-0296f484502c",
+    "customerId": "6343b2e5-b194-4a17-8f55-3e8c52268adb",
+    "amount": 27864.08,
+    "category": "EDUCATION",
+    "type": "DEBIT"
+  },
+  {
+    "transactionId": "1ddec497-2349-4d41-b598-c94634b8f57e",
+    "customerId": "6343b2e5-b194-4a17-8f55-3e8c52268adb",
+    "amount": 4989.9,
+    "category": "DINING",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "ce963f0a-6b09-4114-ae82-c9bc44b25e81",
+    "customerId": "68c3e54a-77cf-4614-ab8c-2bd06e517f9b",
+    "amount": 60000.0,
+    "category": "SALARY",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "1da15c43-c725-45ac-9b49-c55d6597a2fd",
+    "customerId": "68c3e54a-77cf-4614-ab8c-2bd06e517f9b",
+    "amount": 12253.56,
+    "category": "INVESTMENT",
+    "type": "DEBIT"
+  },
+  {
+    "transactionId": "1b66c315-5fac-4eb9-a8d4-26e1001d2de2",
+    "customerId": "68c3e54a-77cf-4614-ab8c-2bd06e517f9b",
+    "amount": 60000.0,
+    "category": "SALARY",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "6aa5dc99-e94f-47eb-9def-a136a73eb699",
+    "customerId": "68c3e54a-77cf-4614-ab8c-2bd06e517f9b",
+    "amount": 19456.79,
+    "category": "EDUCATION",
+    "type": "DEBIT"
+  },
+  {
+    "transactionId": "73aae9fd-e276-46dc-baff-c39c7415265a",
+    "customerId": "68c3e54a-77cf-4614-ab8c-2bd06e517f9b",
+    "amount": 60000.0,
+    "category": "SALARY",
+    "type": "CREDIT"
+  },
+  {
+    "transactionId": "17c61150-726f-4d80-82c4-e3b334057f44",
+    "customerId": "68c3e54a-77cf-4614-ab8c-2bd06e517f9b",
+    "amount": 40306.48,
+    "category": "EMI",
+    "type": "DEBIT"
+  }
+]

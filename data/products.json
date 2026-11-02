@@ -1,0 +1,20 @@
+[
+  {
+    "productCode": "PL_STANDARD",
+    "name": "Personal Loan Standard",
+    "interestRate": 12.5,
+    "minIncome": 30000.0
+  },
+  {
+    "productCode": "PL_PREMIUM",
+    "name": "Personal Loan Premium",
+    "interestRate": 10.75,
+    "minIncome": 75000.0
+  },
+  {
+    "productCode": "PL_SALARY",
+    "name": "Salary Advantage Loan",
+    "interestRate": 11.25,
+    "minIncome": 40000.0
+  }
+]

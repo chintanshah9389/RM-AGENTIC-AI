@@ -1,0 +1,455 @@
+[
+  {
+    "customerId": "e4e9be97-fc7f-493b-896d-1f4656cded4a",
+    "customerCode": "CUST1001",
+    "fullName": "Priya Sharma",
+    "city": "Mumbai",
+    "monthlyIncome": 95000.0,
+    "segment": "PREMIUM",
+    "scenarioTag": "A"
+  },
+  {
+    "customerId": "badcac14-0782-44c1-9a42-a7aa8e391c62",
+    "customerCode": "CUST1002",
+    "fullName": "Rohan Patel",
+    "city": "Pune",
+    "monthlyIncome": 120000.0,
+    "segment": "PRIVATE",
+    "scenarioTag": "B"
+  },
+  {
+    "customerId": "628a9705-4f84-481a-b9bd-e9c33e18f5fa",
+    "customerCode": "CUST1003",
+    "fullName": "Aman Reddy",
+    "city": "Hyderabad",
+    "monthlyIncome": 55000.0,
+    "segment": "GOLD",
+    "scenarioTag": "C"
+  },
+  {
+    "customerId": "e2e762c3-90f9-4e61-bb2b-4f1c9ee30b61",
+    "customerCode": "CUST1004",
+    "fullName": "Neha Iyer",
+    "city": "Chennai",
+    "monthlyIncome": 85000.0,
+    "segment": "PREMIUM",
+    "scenarioTag": "D"
+  },
+  {
+    "customerId": "76758d75-0a1d-441a-a8ea-8afc1d1fd5c2",
+    "customerCode": "CUST1005",
+    "fullName": "Kabir Singh",
+    "city": "Delhi",
+    "monthlyIncome": 78000.0,
+    "segment": "GOLD",
+    "scenarioTag": "E"
+  },
+  {
+    "customerId": "e4b0b1e0-ca6b-4c9c-a84a-a7915d3e5629",
+    "customerCode": "CUST1006",
+    "fullName": "Meera Nair",
+    "city": "Bengaluru",
+    "monthlyIncome": 88000.0,
+    "segment": "PREMIUM",
+    "scenarioTag": "F"
+  },
+  {
+    "customerId": "b63c186e-7131-4ef4-b5bf-0455b68fa316",
+    "customerCode": "CUST1007",
+    "fullName": "Shreya Chopra 7",
+    "city": "Pune",
+    "monthlyIncome": 60000.0,
+    "segment": "GOLD",
+    "scenarioTag": null
+  },
+  {
+    "customerId": "59d79b92-0de9-49c9-a88d-373250e383f3",
+    "customerCode": "CUST1008",
+    "fullName": "Kunal Desai 8",
+    "city": "Kolkata",
+    "monthlyIncome": 75000.0,
+    "segment": "PREMIUM",
+    "scenarioTag": null
+  },
+  {
+    "customerId": "a264afe6-5333-44e2-80f8-bc2bde824fd6",
+    "customerCode": "CUST1009",
+    "fullName": "Yash Pillai 9",
+    "city": "Ahmedabad",
+    "monthlyIncome": 110000.0,
+    "segment": "PREMIUM",
+    "scenarioTag": null
+  },
+  {
+    "customerId": "3596a65c-a979-4472-8d6c-b545d7b2b9f2",
+    "customerCode": "CUST1010",
+    "fullName": "Divya Sharma 10",
+    "city": "Ahmedabad",
+    "monthlyIncome": 60000.0,
+    "segment": "GOLD",
+    "scenarioTag": null
+  },
+  {
+    "customerId": "a8fe6560-dff2-4c63-8a55-5d33e63a403e",
+    "customerCode": "CUST1011",
+    "fullName": "Yash Reddy 11",
+    "city": "Pune",
+    "monthlyIncome": 60000.0,
+    "segment": "GOLD",
+    "scenarioTag": null
+  },
+  {
+    "customerId": "59e04950-7e2b-4480-ad3a-5d5c8a566780",
+    "customerCode": "CUST1012",
+    "fullName": "Siddharth Patel 12",
+    "city": "Pune",
+    "monthlyIncome": 90000.0,
+    "segment": "PREMIUM",
+    "scenarioTag": null
+  },
+  {
+    "customerId": "4fbae2c6-def3-4dc8-991d-f7ad1005e0d0",
+    "customerCode": "CUST1013",
+    "fullName": "Aditya Chopra 13",
+    "city": "Ahmedabad",
+    "monthlyIncome": 150000.0,
+    "segment": "PRIVATE",
+    "scenarioTag": null
+  },
+  {
+    "customerId": "c29d3092-8431-412d-bd0b-c26697915da1",
+    "customerCode": "CUST1014",
+    "fullName": "Kunal Desai 14",
+    "city": "Mumbai",
+    "monthlyIncome": 110000.0,
+    "segment": "PREMIUM",
+    "scenarioTag": null
+  },
+  {
+    "customerId": "3a19c66d-df44-4da3-b16b-80b03c019043",
+    "customerCode": "CUST1015",
+    "fullName": "Isha Pillai 15",
+    "city": "Chennai",
+    "monthlyIncome": 45000.0,
+    "segment": "GOLD",
+    "scenarioTag": null
+  },
+  {
+    "customerId": "5b378a9a-6a4d-4962-aaac-f215abd861f0",
+    "customerCode": "CUST1016",
+    "fullName": "Divya Chopra 16",
+    "city": "Hyderabad",
+    "monthlyIncome": 90000.0,
+    "segment": "PREMIUM",
+    "scenarioTag": null
+  },
+  {
+    "customerId": "151110f1-9a4d-4c8b-a277-3f5fee5611b9",
+    "customerCode": "CUST1017",
+    "fullName": "Aditya Singh 17",
+    "city": "Chennai",
+    "monthlyIncome": 90000.0,
+    "segment": "PREMIUM",
+    "scenarioTag": null
+  },
+  {
+    "customerId": "86573a72-4444-4a8c-9d57-fdf20db20034",
+    "customerCode": "CUST1018",
+    "fullName": "Kunal Chopra 18",
+    "city": "Pune",
+    "monthlyIncome": 90000.0,
+    "segment": "PREMIUM",
+    "scenarioTag": null
+  },
+  {
+    "customerId": "1b56a082-e66b-46e4-b28e-a91f728ad753",
+    "customerCode": "CUST1019",
+    "fullName": "Vikram Khan 19",
+    "city": "Hyderabad",
+    "monthlyIncome": 35000.0,
+    "segment": "STANDARD",
+    "scenarioTag": null
+  },
+  {
+    "customerId": "aad866e0-766e-44cb-9299-e44d175f9e6e",
+    "customerCode": "CUST1020",
+    "fullName": "Rohan Pillai 20",
+    "city": "Chennai",
+    "monthlyIncome": 60000.0,
+    "segment": "GOLD",
+    "scenarioTag": null
+  },
+  {
+    "customerId": "872d62c2-b048-48f7-a978-9ff50a06c540",
+    "customerCode": "CUST1021",
+    "fullName": "Priya Malhotra 21",
+    "city": "Chennai",
+    "monthlyIncome": 60000.0,
+    "segment": "GOLD",
+    "scenarioTag": null
+  },
+  {
+    "customerId": "7e570368-5c5e-414f-a647-22178a0e6e7d",
+    "customerCode": "CUST1022",
+    "fullName": "Kavya Joshi 22",
+    "city": "Pune",
+    "monthlyIncome": 110000.0,
+    "segment": "PREMIUM",
+    "scenarioTag": null
+  },
+  {
+    "customerId": "07bee9db-e72e-4e06-a1bb-ca1dcf64c1ba",
+    "customerCode": "CUST1023",
+    "fullName": "Pooja Khan 23",
+    "city": "Kolkata",
+    "monthlyIncome": 28000.0,
+    "segment": "STANDARD",
+    "scenarioTag": null
+  },
+  {
+    "customerId": "d1b3c442-638b-4cda-b8a3-8453e4f57c5c",
+    "customerCode": "CUST1024",
+    "fullName": "Kunal Khan 24",
+    "city": "Delhi",
+    "monthlyIncome": 35000.0,
+    "segment": "STANDARD",
+    "scenarioTag": null
+  },
+  {
+    "customerId": "5771160a-ea12-448d-9297-efd092efd7e8",
+    "customerCode": "CUST1025",
+    "fullName": "Shreya Joshi 25",
+    "city": "Ahmedabad",
+    "monthlyIncome": 110000.0,
+    "segment": "PREMIUM",
+    "scenarioTag": null
+  },
+  {
+    "customerId": "a4325ecd-d490-4032-9575-130fd3f3fca5",
+    "customerCode": "CUST1026",
+    "fullName": "Kabir Reddy 26",
+    "city": "Chennai",
+    "monthlyIncome": 35000.0,
+    "segment": "STANDARD",
+    "scenarioTag": null
+  },
+  {
+    "customerId": "6343b2e5-b194-4a17-8f55-3e8c52268adb",
+    "customerCode": "CUST1027",
+    "fullName": "Vikram Joshi 27",
+    "city": "Mumbai",
+    "monthlyIncome": 110000.0,
+    "segment": "PREMIUM",
+    "scenarioTag": null
+  },
+  {
+    "customerId": "9ae591b6-f6b9-4773-8d79-7e5ce3ed1275",
+    "customerCode": "CUST1028",
+    "fullName": "Isha Chopra 28",
+    "city": "Ahmedabad",
+    "monthlyIncome": 28000.0,
+    "segment": "STANDARD",
+    "scenarioTag": null
+  },
+  {
+    "customerId": "f19430da-5582-4d8e-9808-f24a5d533e3a",
+    "customerCode": "CUST1029",
+    "fullName": "Sonal Reddy 29",
+    "city": "Kolkata",
+    "monthlyIncome": 35000.0,
+    "segment": "STANDARD",
+    "scenarioTag": null
+  },
+  {
+    "customerId": "42daf735-31b5-4b1d-8b7e-7505c9d557b9",
+    "customerCode": "CUST1030",
+    "fullName": "Tanvi Iyer 30",
+    "city": "Ahmedabad",
+    "monthlyIncome": 75000.0,
+    "segment": "PREMIUM",
+    "scenarioTag": null
+  },
+  {
+    "customerId": "44b6b51c-00ef-40df-aa86-d38d30cb3b86",
+    "customerCode": "CUST1031",
+    "fullName": "Shreya Gupta 31",
+    "city": "Hyderabad",
+    "monthlyIncome": 35000.0,
+    "segment": "STANDARD",
+    "scenarioTag": null
+  },
+  {
+    "customerId": "0db5bc7e-4f72-4131-8f4f-c9b3f8ed0637",
+    "customerCode": "CUST1032",
+    "fullName": "Aarav Gupta 32",
+    "city": "Ahmedabad",
+    "monthlyIncome": 90000.0,
+    "segment": "PREMIUM",
+    "scenarioTag": null
+  },
+  {
+    "customerId": "8de577cf-cfbe-4747-b0ac-dedb5281c651",
+    "customerCode": "CUST1033",
+    "fullName": "Sneha Iyer 33",
+    "city": "Bengaluru",
+    "monthlyIncome": 90000.0,
+    "segment": "PREMIUM",
+    "scenarioTag": null
+  },
+  {
+    "customerId": "f9e08298-0c8b-4cd3-a160-2cb262b94432",
+    "customerCode": "CUST1034",
+    "fullName": "Kunal Mehta 34",
+    "city": "Chennai",
+    "monthlyIncome": 28000.0,
+    "segment": "STANDARD",
+    "scenarioTag": null
+  },
+  {
+    "customerId": "ac442813-63ca-4dc0-bbac-ebc3ae27e1d7",
+    "customerCode": "CUST1035",
+    "fullName": "Vikram Chopra 35",
+    "city": "Ahmedabad",
+    "monthlyIncome": 90000.0,
+    "segment": "PREMIUM",
+    "scenarioTag": null
+  },
+  {
+    "customerId": "9e524eca-5be7-4857-b4d1-db54e49768cd",
+    "customerCode": "CUST1036",
+    "fullName": "Manish Patel 36",
+    "city": "Bengaluru",
+    "monthlyIncome": 28000.0,
+    "segment": "STANDARD",
+    "scenarioTag": null
+  },
+  {
+    "customerId": "e5f3c9b0-4f31-43ee-b6d2-bc6d8e3334cc",
+    "customerCode": "CUST1037",
+    "fullName": "Rohan Desai 37",
+    "city": "Hyderabad",
+    "monthlyIncome": 45000.0,
+    "segment": "GOLD",
+    "scenarioTag": null
+  },
+  {
+    "customerId": "a23a2df2-aaf1-43a6-a27a-fc01bbf01ba3",
+    "customerCode": "CUST1038",
+    "fullName": "Aarav Sharma 38",
+    "city": "Bengaluru",
+    "monthlyIncome": 28000.0,
+    "segment": "STANDARD",
+    "scenarioTag": null
+  },
+  {
+    "customerId": "70a2bb8d-6f1d-4ab3-9f27-b99a346360e8",
+    "customerCode": "CUST1039",
+    "fullName": "Manish Iyer 39",
+    "city": "Mumbai",
+    "monthlyIncome": 35000.0,
+    "segment": "STANDARD",
+    "scenarioTag": null
+  },
+  {
+    "customerId": "ad2857e1-3ae4-4130-8004-3df1cd80ee6d",
+    "customerCode": "CUST1040",
+    "fullName": "Sneha Desai 40",
+    "city": "Hyderabad",
+    "monthlyIncome": 35000.0,
+    "segment": "STANDARD",
+    "scenarioTag": null
+  },
+  {
+    "customerId": "23814bf5-e2dc-48ff-8de9-907306e0553f",
+    "customerCode": "CUST1041",
+    "fullName": "Nikhil Mehta 41",
+    "city": "Chennai",
+    "monthlyIncome": 28000.0,
+    "segment": "STANDARD",
+    "scenarioTag": null
+  },
+  {
+    "customerId": "a0909b8f-6f80-41c6-9c11-3b6443ca9799",
+    "customerCode": "CUST1042",
+    "fullName": "Neha Pillai 42",
+    "city": "Pune",
+    "monthlyIncome": 110000.0,
+    "segment": "PREMIUM",
+    "scenarioTag": null
+  },
+  {
+    "customerId": "3a27acfd-b44d-4e8d-a76a-573dbeeb6c82",
+    "customerCode": "CUST1043",
+    "fullName": "Yash Chopra 43",
+    "city": "Pune",
+    "monthlyIncome": 35000.0,
+    "segment": "STANDARD",
+    "scenarioTag": null
+  },
+  {
+    "customerId": "f559c7c5-7627-4b23-a586-3690b5c32d04",
+    "customerCode": "CUST1044",
+    "fullName": "Aditya Banerjee 44",
+    "city": "Kolkata",
+    "monthlyIncome": 75000.0,
+    "segment": "PREMIUM",
+    "scenarioTag": null
+  },
+  {
+    "customerId": "f140610e-303c-4aa3-895b-3b22bfc7113b",
+    "customerCode": "CUST1045",
+    "fullName": "Kabir Desai 45",
+    "city": "Bengaluru",
+    "monthlyIncome": 75000.0,
+    "segment": "PREMIUM",
+    "scenarioTag": null
+  },
+  {
+    "customerId": "ba46ee65-c153-4b43-bce7-a78da51e76eb",
+    "customerCode": "CUST1046",
+    "fullName": "Harsh Gupta 46",
+    "city": "Kolkata",
+    "monthlyIncome": 110000.0,
+    "segment": "PREMIUM",
+    "scenarioTag": null
+  },
+  {
+    "customerId": "68c3e54a-77cf-4614-ab8c-2bd06e517f9b",
+    "customerCode": "CUST1047",
+    "fullName": "Yash Iyer 47",
+    "city": "Ahmedabad",
+    "monthlyIncome": 60000.0,
+    "segment": "GOLD",
+    "scenarioTag": null
+  },
+  {
+    "customerId": "0ed02f41-26fb-499f-859a-798975b7e508",
+    "customerCode": "CUST1048",
+    "fullName": "Nikhil Chopra 48",
+    "city": "Ahmedabad",
+    "monthlyIncome": 35000.0,
+    "segment": "STANDARD",
+    "scenarioTag": null
+  },
+  {
+    "customerId": "7129d993-c7bd-45a1-918c-43852c4cbc58",
+    "customerCode": "CUST1049",
+    "fullName": "Siddharth Banerjee 49",
+    "city": "Pune",
+    "monthlyIncome": 60000.0,
+    "segment": "GOLD",
+    "scenarioTag": null
+  },
+  {
+    "customerId": "a1830e5d-8448-4235-ab50-5a2765c26331",
+    "customerCode": "CUST1050",
+    "fullName": "Sonal Gupta 50",
+    "city": "Chennai",
+    "monthlyIncome": 110000.0,
+    "segment": "PREMIUM",
+    "scenarioTag": null
+  },
+  {
+    "note": "Sample of 50 / 5000 customers in database"
+  }
+]

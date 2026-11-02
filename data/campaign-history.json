@@ -1,0 +1,252 @@
+[
+  {
+    "customerId": "07bee9db-e72e-4e06-a1bb-ca1dcf64c1ba",
+    "campaignName": "Personal Loan Soft Offer",
+    "response": "OPTED_OUT"
+  },
+  {
+    "customerId": "0db5bc7e-4f72-4131-8f4f-c9b3f8ed0637",
+    "campaignName": "Personal Loan Soft Offer",
+    "response": "INTERESTED"
+  },
+  {
+    "customerId": "0ed02f41-26fb-499f-859a-798975b7e508",
+    "campaignName": "Personal Loan Soft Offer",
+    "response": "NO_RESPONSE"
+  },
+  {
+    "customerId": "151110f1-9a4d-4c8b-a277-3f5fee5611b9",
+    "campaignName": "Personal Loan Soft Offer",
+    "response": "INTERESTED"
+  },
+  {
+    "customerId": "1b56a082-e66b-46e4-b28e-a91f728ad753",
+    "campaignName": "Personal Loan Soft Offer",
+    "response": "INTERESTED"
+  },
+  {
+    "customerId": "23814bf5-e2dc-48ff-8de9-907306e0553f",
+    "campaignName": "Personal Loan Soft Offer",
+    "response": "INTERESTED"
+  },
+  {
+    "customerId": "3596a65c-a979-4472-8d6c-b545d7b2b9f2",
+    "campaignName": "Personal Loan Soft Offer",
+    "response": "OPTED_OUT"
+  },
+  {
+    "customerId": "3a19c66d-df44-4da3-b16b-80b03c019043",
+    "campaignName": "Personal Loan Soft Offer",
+    "response": "OPTED_OUT"
+  },
+  {
+    "customerId": "3a27acfd-b44d-4e8d-a76a-573dbeeb6c82",
+    "campaignName": "Personal Loan Soft Offer",
+    "response": "NO_RESPONSE"
+  },
+  {
+    "customerId": "42daf735-31b5-4b1d-8b7e-7505c9d557b9",
+    "campaignName": "Personal Loan Soft Offer",
+    "response": "OPTED_OUT"
+  },
+  {
+    "customerId": "44b6b51c-00ef-40df-aa86-d38d30cb3b86",
+    "campaignName": "Personal Loan Soft Offer",
+    "response": "INTERESTED"
+  },
+  {
+    "customerId": "4fbae2c6-def3-4dc8-991d-f7ad1005e0d0",
+    "campaignName": "Personal Loan Soft Offer",
+    "response": "NO_RESPONSE"
+  },
+  {
+    "customerId": "5771160a-ea12-448d-9297-efd092efd7e8",
+    "campaignName": "Personal Loan Soft Offer",
+    "response": "OPTED_OUT"
+  },
+  {
+    "customerId": "59d79b92-0de9-49c9-a88d-373250e383f3",
+    "campaignName": "Personal Loan Soft Offer",
+    "response": "NO_RESPONSE"
+  },
+  {
+    "customerId": "59e04950-7e2b-4480-ad3a-5d5c8a566780",
+    "campaignName": "Personal Loan Soft Offer",
+    "response": "NO_RESPONSE"
+  },
+  {
+    "customerId": "5b378a9a-6a4d-4962-aaac-f215abd861f0",
+    "campaignName": "Personal Loan Soft Offer",
+    "response": "NO_RESPONSE"
+  },
+  {
+    "customerId": "628a9705-4f84-481a-b9bd-e9c33e18f5fa",
+    "campaignName": "Personal Loan Soft Offer",
+    "response": "OPTED_OUT"
+  },
+  {
+    "customerId": "6343b2e5-b194-4a17-8f55-3e8c52268adb",
+    "campaignName": "Personal Loan Soft Offer",
+    "response": "OPTED_OUT"
+  },
+  {
+    "customerId": "68c3e54a-77cf-4614-ab8c-2bd06e517f9b",
+    "campaignName": "Personal Loan Soft Offer",
+    "response": "NO_RESPONSE"
+  },
+  {
+    "customerId": "70a2bb8d-6f1d-4ab3-9f27-b99a346360e8",
+    "campaignName": "Personal Loan Soft Offer",
+    "response": "INTERESTED"
+  },
+  {
+    "customerId": "7129d993-c7bd-45a1-918c-43852c4cbc58",
+    "campaignName": "Personal Loan Soft Offer",
+    "response": "OPTED_OUT"
+  },
+  {
+    "customerId": "76758d75-0a1d-441a-a8ea-8afc1d1fd5c2",
+    "campaignName": "Personal Loan Soft Offer",
+    "response": "INTERESTED"
+  },
+  {
+    "customerId": "7e570368-5c5e-414f-a647-22178a0e6e7d",
+    "campaignName": "Personal Loan Soft Offer",
+    "response": "INTERESTED"
+  },
+  {
+    "customerId": "86573a72-4444-4a8c-9d57-fdf20db20034",
+    "campaignName": "Personal Loan Soft Offer",
+    "response": "NO_RESPONSE"
+  },
+  {
+    "customerId": "872d62c2-b048-48f7-a978-9ff50a06c540",
+    "campaignName": "Personal Loan Soft Offer",
+    "response": "OPTED_OUT"
+  },
+  {
+    "customerId": "8de577cf-cfbe-4747-b0ac-dedb5281c651",
+    "campaignName": "Personal Loan Soft Offer",
+    "response": "INTERESTED"
+  },
+  {
+    "customerId": "9ae591b6-f6b9-4773-8d79-7e5ce3ed1275",
+    "campaignName": "Personal Loan Soft Offer",
+    "response": "INTERESTED"
+  },
+  {
+    "customerId": "9e524eca-5be7-4857-b4d1-db54e49768cd",
+    "campaignName": "Personal Loan Soft Offer",
+    "response": "OPTED_OUT"
+  },
+  {
+    "customerId": "a0909b8f-6f80-41c6-9c11-3b6443ca9799",
+    "campaignName": "Personal Loan Soft Offer",
+    "response": "INTERESTED"
+  },
+  {
+    "customerId": "a1830e5d-8448-4235-ab50-5a2765c26331",
+    "campaignName": "Personal Loan Soft Offer",
+    "response": "INTERESTED"
+  },
+  {
+    "customerId": "a23a2df2-aaf1-43a6-a27a-fc01bbf01ba3",
+    "campaignName": "Personal Loan Soft Offer",
+    "response": "INTERESTED"
+  },
+  {
+    "customerId": "a264afe6-5333-44e2-80f8-bc2bde824fd6",
+    "campaignName": "Personal Loan Soft Offer",
+    "response": "OPTED_OUT"
+  },
+  {
+    "customerId": "a4325ecd-d490-4032-9575-130fd3f3fca5",
+    "campaignName": "Personal Loan Soft Offer",
+    "response": "INTERESTED"
+  },
+  {
+    "customerId": "a8fe6560-dff2-4c63-8a55-5d33e63a403e",
+    "campaignName": "Personal Loan Soft Offer",
+    "response": "OPTED_OUT"
+  },
+  {
+    "customerId": "aad866e0-766e-44cb-9299-e44d175f9e6e",
+    "campaignName": "Personal Loan Soft Offer",
+    "response": "NO_RESPONSE"
+  },
+  {
+    "customerId": "ac442813-63ca-4dc0-bbac-ebc3ae27e1d7",
+    "campaignName": "Personal Loan Soft Offer",
+    "response": "OPTED_OUT"
+  },
+  {
+    "customerId": "ad2857e1-3ae4-4130-8004-3df1cd80ee6d",
+    "campaignName": "Personal Loan Soft Offer",
+    "response": "INTERESTED"
+  },
+  {
+    "customerId": "b63c186e-7131-4ef4-b5bf-0455b68fa316",
+    "campaignName": "Personal Loan Soft Offer",
+    "response": "NO_RESPONSE"
+  },
+  {
+    "customerId": "ba46ee65-c153-4b43-bce7-a78da51e76eb",
+    "campaignName": "Personal Loan Soft Offer",
+    "response": "INTERESTED"
+  },
+  {
+    "customerId": "badcac14-0782-44c1-9a42-a7aa8e391c62",
+    "campaignName": "Personal Loan Soft Offer",
+    "response": "NO_RESPONSE"
+  },
+  {
+    "customerId": "c29d3092-8431-412d-bd0b-c26697915da1",
+    "campaignName": "Personal Loan Soft Offer",
+    "response": "INTERESTED"
+  },
+  {
+    "customerId": "d1b3c442-638b-4cda-b8a3-8453e4f57c5c",
+    "campaignName": "Personal Loan Soft Offer",
+    "response": "INTERESTED"
+  },
+  {
+    "customerId": "e2e762c3-90f9-4e61-bb2b-4f1c9ee30b61",
+    "campaignName": "Personal Loan Soft Offer",
+    "response": "OPTED_OUT"
+  },
+  {
+    "customerId": "e4b0b1e0-ca6b-4c9c-a84a-a7915d3e5629",
+    "campaignName": "Personal Loan Soft Offer",
+    "response": "OPTED_OUT"
+  },
+  {
+    "customerId": "e4e9be97-fc7f-493b-896d-1f4656cded4a",
+    "campaignName": "Personal Loan Soft Offer",
+    "response": "OPTED_OUT"
+  },
+  {
+    "customerId": "e5f3c9b0-4f31-43ee-b6d2-bc6d8e3334cc",
+    "campaignName": "Personal Loan Soft Offer",
+    "response": "OPTED_OUT"
+  },
+  {
+    "customerId": "f140610e-303c-4aa3-895b-3b22bfc7113b",
+    "campaignName": "Personal Loan Soft Offer",
+    "response": "OPTED_OUT"
+  },
+  {
+    "customerId": "f19430da-5582-4d8e-9808-f24a5d533e3a",
+    "campaignName": "Personal Loan Soft Offer",
+    "response": "INTERESTED"
+  },
+  {
+    "customerId": "f559c7c5-7627-4b23-a586-3690b5c32d04",
+    "campaignName": "Personal Loan Soft Offer",
+    "response": "NO_RESPONSE"
+  },
+  {
+    "customerId": "f9e08298-0c8b-4cd3-a160-2cb262b94432",
+    "campaignName": "Personal Loan Soft Offer",
+    "response": "INTERESTED"
+  }
+]

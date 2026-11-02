@@ -1,0 +1,520 @@
+[
+  {
+    "accountId": "c05347d6-910f-44ca-8110-98d58039fa30",
+    "customerId": "07bee9db-e72e-4e06-a1bb-ca1dcf64c1ba",
+    "accountType": "SAVINGS",
+    "maskedAccountNumber": "XXXXXX8609",
+    "averageMonthlyBalance": 76912.23
+  },
+  {
+    "accountId": "d05b91e1-7648-44cf-9443-6f69390bdcd6",
+    "customerId": "0db5bc7e-4f72-4131-8f4f-c9b3f8ed0637",
+    "accountType": "SAVINGS",
+    "maskedAccountNumber": "XXXXXX3910",
+    "averageMonthlyBalance": 264332.63
+  },
+  {
+    "accountId": "d5f5ed0f-548d-43d3-96fb-cfc0de15e1f6",
+    "customerId": "0db5bc7e-4f72-4131-8f4f-c9b3f8ed0637",
+    "accountType": "SALARY",
+    "maskedAccountNumber": "XXXXXX5775",
+    "averageMonthlyBalance": 264332.63
+  },
+  {
+    "accountId": "d3536ebc-b820-4679-83fe-d539abc7c2d7",
+    "customerId": "0ed02f41-26fb-499f-859a-798975b7e508",
+    "accountType": "SAVINGS",
+    "maskedAccountNumber": "XXXXXX3709",
+    "averageMonthlyBalance": 141946.47
+  },
+  {
+    "accountId": "e63ea7d3-7f23-4ad5-9967-2d68cac0837b",
+    "customerId": "151110f1-9a4d-4c8b-a277-3f5fee5611b9",
+    "accountType": "SAVINGS",
+    "maskedAccountNumber": "XXXXXX8242",
+    "averageMonthlyBalance": 266128.66
+  },
+  {
+    "accountId": "af4411ac-8f90-4f3b-8203-d192da8766cd",
+    "customerId": "151110f1-9a4d-4c8b-a277-3f5fee5611b9",
+    "accountType": "SALARY",
+    "maskedAccountNumber": "XXXXXX9394",
+    "averageMonthlyBalance": 266128.66
+  },
+  {
+    "accountId": "bd304a9a-6f6f-4c5d-8fef-d973c0fd456f",
+    "customerId": "1b56a082-e66b-46e4-b28e-a91f728ad753",
+    "accountType": "SAVINGS",
+    "maskedAccountNumber": "XXXXXX6060",
+    "averageMonthlyBalance": 54414.21
+  },
+  {
+    "accountId": "14ac4e64-a6ea-47cb-8381-d2e03cd19a3c",
+    "customerId": "23814bf5-e2dc-48ff-8de9-907306e0553f",
+    "accountType": "SAVINGS",
+    "maskedAccountNumber": "XXXXXX6978",
+    "averageMonthlyBalance": 113104.39
+  },
+  {
+    "accountId": "62b25270-aaa7-42ee-ac49-1bec66f4003c",
+    "customerId": "3596a65c-a979-4472-8d6c-b545d7b2b9f2",
+    "accountType": "SAVINGS",
+    "maskedAccountNumber": "XXXXXX7046",
+    "averageMonthlyBalance": 145117.09
+  },
+  {
+    "accountId": "07d110c6-1673-479d-a393-f0d4c70cce1d",
+    "customerId": "3a19c66d-df44-4da3-b16b-80b03c019043",
+    "accountType": "SAVINGS",
+    "maskedAccountNumber": "XXXXXX5583",
+    "averageMonthlyBalance": 122595.64
+  },
+  {
+    "accountId": "73b2f82b-dc42-4838-be96-d430f67c742c",
+    "customerId": "3a19c66d-df44-4da3-b16b-80b03c019043",
+    "accountType": "SALARY",
+    "maskedAccountNumber": "XXXXXX4559",
+    "averageMonthlyBalance": 122595.64
+  },
+  {
+    "accountId": "4c6374c0-bf31-46b0-a699-9ddc9324214c",
+    "customerId": "3a27acfd-b44d-4e8d-a76a-573dbeeb6c82",
+    "accountType": "SAVINGS",
+    "maskedAccountNumber": "XXXXXX8779",
+    "averageMonthlyBalance": 124642.13
+  },
+  {
+    "accountId": "e4ab8a7d-9e70-4c77-9ffc-c4113b1d738b",
+    "customerId": "42daf735-31b5-4b1d-8b7e-7505c9d557b9",
+    "accountType": "SAVINGS",
+    "maskedAccountNumber": "XXXXXX7652",
+    "averageMonthlyBalance": 130279.33
+  },
+  {
+    "accountId": "7e79ee87-e7f6-41db-abb8-4454f99986c5",
+    "customerId": "44b6b51c-00ef-40df-aa86-d38d30cb3b86",
+    "accountType": "SAVINGS",
+    "maskedAccountNumber": "XXXXXX6050",
+    "averageMonthlyBalance": 53045.5
+  },
+  {
+    "accountId": "f12670f5-92f4-4476-b892-91a5c1e5e44f",
+    "customerId": "4fbae2c6-def3-4dc8-991d-f7ad1005e0d0",
+    "accountType": "SAVINGS",
+    "maskedAccountNumber": "XXXXXX8486",
+    "averageMonthlyBalance": 461677.99
+  },
+  {
+    "accountId": "2277c3ac-20ea-46aa-a185-1a159d912b7a",
+    "customerId": "4fbae2c6-def3-4dc8-991d-f7ad1005e0d0",
+    "accountType": "SALARY",
+    "maskedAccountNumber": "XXXXXX3361",
+    "averageMonthlyBalance": 461677.99
+  },
+  {
+    "accountId": "683756fe-eeb0-475b-a8c2-fa574c7f5f88",
+    "customerId": "5771160a-ea12-448d-9297-efd092efd7e8",
+    "accountType": "SAVINGS",
+    "maskedAccountNumber": "XXXXXX9824",
+    "averageMonthlyBalance": 235615.65
+  },
+  {
+    "accountId": "5eeb9b0a-e641-4ef6-8bb2-4dd61e879a1b",
+    "customerId": "5771160a-ea12-448d-9297-efd092efd7e8",
+    "accountType": "SALARY",
+    "maskedAccountNumber": "XXXXXX3249",
+    "averageMonthlyBalance": 235615.65
+  },
+  {
+    "accountId": "29a5b58b-1536-460c-92ac-7eea6a503960",
+    "customerId": "59d79b92-0de9-49c9-a88d-373250e383f3",
+    "accountType": "SAVINGS",
+    "maskedAccountNumber": "XXXXXX4505",
+    "averageMonthlyBalance": 268638.71
+  },
+  {
+    "accountId": "e278584d-d6fb-444a-b87a-29d2c5be5a73",
+    "customerId": "59d79b92-0de9-49c9-a88d-373250e383f3",
+    "accountType": "SALARY",
+    "maskedAccountNumber": "XXXXXX6421",
+    "averageMonthlyBalance": 268638.71
+  },
+  {
+    "accountId": "b457936c-87f5-47bb-b9d6-a79b4180b2a3",
+    "customerId": "59e04950-7e2b-4480-ad3a-5d5c8a566780",
+    "accountType": "SAVINGS",
+    "maskedAccountNumber": "XXXXXX8242",
+    "averageMonthlyBalance": 339239.65
+  },
+  {
+    "accountId": "498c90c8-f2c3-42a5-a9d4-6f938155468a",
+    "customerId": "5b378a9a-6a4d-4962-aaac-f215abd861f0",
+    "accountType": "SAVINGS",
+    "maskedAccountNumber": "XXXXXX8430",
+    "averageMonthlyBalance": 226511.54
+  },
+  {
+    "accountId": "e1a6579d-7a70-4e3b-a685-d40d898ed411",
+    "customerId": "5b378a9a-6a4d-4962-aaac-f215abd861f0",
+    "accountType": "SALARY",
+    "maskedAccountNumber": "XXXXXX2557",
+    "averageMonthlyBalance": 226511.54
+  },
+  {
+    "accountId": "11a13b2f-6ca1-4be5-9e01-aff61afd4784",
+    "customerId": "628a9705-4f84-481a-b9bd-e9c33e18f5fa",
+    "accountType": "SAVINGS",
+    "maskedAccountNumber": "XXXXXX6947",
+    "averageMonthlyBalance": 100958.17
+  },
+  {
+    "accountId": "0d193896-29e4-4e82-8b38-f9b7e0633b8f",
+    "customerId": "6343b2e5-b194-4a17-8f55-3e8c52268adb",
+    "accountType": "SAVINGS",
+    "maskedAccountNumber": "XXXXXX1987",
+    "averageMonthlyBalance": 343583.96
+  },
+  {
+    "accountId": "945f5122-5050-4867-b53d-86fcfc60dd34",
+    "customerId": "6343b2e5-b194-4a17-8f55-3e8c52268adb",
+    "accountType": "SALARY",
+    "maskedAccountNumber": "XXXXXX8734",
+    "averageMonthlyBalance": 343583.96
+  },
+  {
+    "accountId": "0ad7f3c2-cc1a-4007-a64a-bdef02020f61",
+    "customerId": "68c3e54a-77cf-4614-ab8c-2bd06e517f9b",
+    "accountType": "SAVINGS",
+    "maskedAccountNumber": "XXXXXX3443",
+    "averageMonthlyBalance": 210423.95
+  },
+  {
+    "accountId": "f3fa3cd2-358d-47e4-ade6-1c31a9bc010b",
+    "customerId": "68c3e54a-77cf-4614-ab8c-2bd06e517f9b",
+    "accountType": "SALARY",
+    "maskedAccountNumber": "XXXXXX9383",
+    "averageMonthlyBalance": 210423.95
+  },
+  {
+    "accountId": "2c1ada05-a708-4db9-9460-503cc2e05493",
+    "customerId": "70a2bb8d-6f1d-4ab3-9f27-b99a346360e8",
+    "accountType": "SAVINGS",
+    "maskedAccountNumber": "XXXXXX7461",
+    "averageMonthlyBalance": 119407.65
+  },
+  {
+    "accountId": "0eec23c7-3bb8-480d-ad5c-8fdd8cf51c02",
+    "customerId": "7129d993-c7bd-45a1-918c-43852c4cbc58",
+    "accountType": "SAVINGS",
+    "maskedAccountNumber": "XXXXXX8091",
+    "averageMonthlyBalance": 189580.74
+  },
+  {
+    "accountId": "9678f378-c4a2-45c8-801e-bc8b6bec428e",
+    "customerId": "7129d993-c7bd-45a1-918c-43852c4cbc58",
+    "accountType": "SALARY",
+    "maskedAccountNumber": "XXXXXX9328",
+    "averageMonthlyBalance": 189580.74
+  },
+  {
+    "accountId": "8705fba5-b4e3-4097-8d47-421fad0510cb",
+    "customerId": "76758d75-0a1d-441a-a8ea-8afc1d1fd5c2",
+    "accountType": "SAVINGS",
+    "maskedAccountNumber": "XXXXXX1832",
+    "averageMonthlyBalance": 175762.37
+  },
+  {
+    "accountId": "d231fe6d-bcaf-4969-bd93-baeeb9062575",
+    "customerId": "76758d75-0a1d-441a-a8ea-8afc1d1fd5c2",
+    "accountType": "SALARY",
+    "maskedAccountNumber": "XXXXXX5533",
+    "averageMonthlyBalance": 175762.37
+  },
+  {
+    "accountId": "803b2429-d484-4665-ad75-b48232e2fc7e",
+    "customerId": "7e570368-5c5e-414f-a647-22178a0e6e7d",
+    "accountType": "SAVINGS",
+    "maskedAccountNumber": "XXXXXX8292",
+    "averageMonthlyBalance": 314174.09
+  },
+  {
+    "accountId": "e921001e-f2cc-4f1f-9e06-cab610da5812",
+    "customerId": "7e570368-5c5e-414f-a647-22178a0e6e7d",
+    "accountType": "SALARY",
+    "maskedAccountNumber": "XXXXXX6236",
+    "averageMonthlyBalance": 314174.09
+  },
+  {
+    "accountId": "04db5d3b-a7e8-469a-a6d4-b346134d2e7e",
+    "customerId": "86573a72-4444-4a8c-9d57-fdf20db20034",
+    "accountType": "SAVINGS",
+    "maskedAccountNumber": "XXXXXX9693",
+    "averageMonthlyBalance": 305970.66
+  },
+  {
+    "accountId": "496de6bf-da36-4fda-b8d5-b34dfb43ad1b",
+    "customerId": "872d62c2-b048-48f7-a978-9ff50a06c540",
+    "accountType": "SAVINGS",
+    "maskedAccountNumber": "XXXXXX6438",
+    "averageMonthlyBalance": 245843.69
+  },
+  {
+    "accountId": "ce2d50d3-51c5-4a4d-8762-7180a7cef668",
+    "customerId": "872d62c2-b048-48f7-a978-9ff50a06c540",
+    "accountType": "SALARY",
+    "maskedAccountNumber": "XXXXXX8159",
+    "averageMonthlyBalance": 245843.69
+  },
+  {
+    "accountId": "05d7085a-3912-47ee-9c2c-5cd815794247",
+    "customerId": "8de577cf-cfbe-4747-b0ac-dedb5281c651",
+    "accountType": "SAVINGS",
+    "maskedAccountNumber": "XXXXXX3692",
+    "averageMonthlyBalance": 309951.88
+  },
+  {
+    "accountId": "e73f2ffd-8322-4e6f-a0c8-5bdad1307a12",
+    "customerId": "8de577cf-cfbe-4747-b0ac-dedb5281c651",
+    "accountType": "SALARY",
+    "maskedAccountNumber": "XXXXXX4996",
+    "averageMonthlyBalance": 309951.88
+  },
+  {
+    "accountId": "ad6480c5-ca2a-4fd2-b59c-9d04da417300",
+    "customerId": "9ae591b6-f6b9-4773-8d79-7e5ce3ed1275",
+    "accountType": "SAVINGS",
+    "maskedAccountNumber": "XXXXXX6253",
+    "averageMonthlyBalance": 92225.08
+  },
+  {
+    "accountId": "7c4ad259-8ac6-4c0d-8cd1-ca6ad37b248d",
+    "customerId": "9e524eca-5be7-4857-b4d1-db54e49768cd",
+    "accountType": "SAVINGS",
+    "maskedAccountNumber": "XXXXXX4751",
+    "averageMonthlyBalance": 82126.82
+  },
+  {
+    "accountId": "195c4ed8-ea9f-4830-a3f9-c85f5d49a6dc",
+    "customerId": "a0909b8f-6f80-41c6-9c11-3b6443ca9799",
+    "accountType": "SAVINGS",
+    "maskedAccountNumber": "XXXXXX2659",
+    "averageMonthlyBalance": 216844.25
+  },
+  {
+    "accountId": "7d76c0d6-e40a-4ed5-adb8-5e1404f1ae20",
+    "customerId": "a1830e5d-8448-4235-ab50-5a2765c26331",
+    "accountType": "SAVINGS",
+    "maskedAccountNumber": "XXXXXX4170",
+    "averageMonthlyBalance": 229834.8
+  },
+  {
+    "accountId": "a1d0a8a6-0e1c-4f1c-9b61-9d7f2953f05c",
+    "customerId": "a1830e5d-8448-4235-ab50-5a2765c26331",
+    "accountType": "SALARY",
+    "maskedAccountNumber": "XXXXXX2220",
+    "averageMonthlyBalance": 229834.8
+  },
+  {
+    "accountId": "847692f7-55d1-4268-8e3a-b7589cc699ab",
+    "customerId": "a23a2df2-aaf1-43a6-a27a-fc01bbf01ba3",
+    "accountType": "SAVINGS",
+    "maskedAccountNumber": "XXXXXX6241",
+    "averageMonthlyBalance": 118931.8
+  },
+  {
+    "accountId": "3d656a72-8ecd-42ad-a655-5b319e21cdb4",
+    "customerId": "a264afe6-5333-44e2-80f8-bc2bde824fd6",
+    "accountType": "SAVINGS",
+    "maskedAccountNumber": "XXXXXX4266",
+    "averageMonthlyBalance": 478371.87
+  },
+  {
+    "accountId": "edb651d6-3be5-428c-af53-0c33a405421c",
+    "customerId": "a4325ecd-d490-4032-9575-130fd3f3fca5",
+    "accountType": "SAVINGS",
+    "maskedAccountNumber": "XXXXXX9442",
+    "averageMonthlyBalance": 139333.93
+  },
+  {
+    "accountId": "4798a42b-a946-40fe-8db2-5bb8794a9698",
+    "customerId": "a8fe6560-dff2-4c63-8a55-5d33e63a403e",
+    "accountType": "SAVINGS",
+    "maskedAccountNumber": "XXXXXX8438",
+    "averageMonthlyBalance": 216537.76
+  },
+  {
+    "accountId": "75eef122-dbf2-4508-b46a-065b215caa4b",
+    "customerId": "aad866e0-766e-44cb-9299-e44d175f9e6e",
+    "accountType": "SAVINGS",
+    "maskedAccountNumber": "XXXXXX3254",
+    "averageMonthlyBalance": 232448.51
+  },
+  {
+    "accountId": "7e7aae01-9e35-47d3-87f1-5e01c4d41522",
+    "customerId": "aad866e0-766e-44cb-9299-e44d175f9e6e",
+    "accountType": "SALARY",
+    "maskedAccountNumber": "XXXXXX3273",
+    "averageMonthlyBalance": 232448.51
+  },
+  {
+    "accountId": "3f8ea98c-18d1-4fc7-9d1d-ed89122b8c2c",
+    "customerId": "ac442813-63ca-4dc0-bbac-ebc3ae27e1d7",
+    "accountType": "SAVINGS",
+    "maskedAccountNumber": "XXXXXX7046",
+    "averageMonthlyBalance": 322569.98
+  },
+  {
+    "accountId": "2ce57a04-e99b-43ed-94d8-ae1ffde8d90a",
+    "customerId": "ac442813-63ca-4dc0-bbac-ebc3ae27e1d7",
+    "accountType": "SALARY",
+    "maskedAccountNumber": "XXXXXX8996",
+    "averageMonthlyBalance": 322569.98
+  },
+  {
+    "accountId": "85d2a8e7-4eb2-4618-b8c3-45f9d7547da5",
+    "customerId": "ad2857e1-3ae4-4130-8004-3df1cd80ee6d",
+    "accountType": "SAVINGS",
+    "maskedAccountNumber": "XXXXXX1829",
+    "averageMonthlyBalance": 151439.47
+  },
+  {
+    "accountId": "0f1f9f6f-d479-45ea-95ca-34768840099c",
+    "customerId": "b63c186e-7131-4ef4-b5bf-0455b68fa316",
+    "accountType": "SAVINGS",
+    "maskedAccountNumber": "XXXXXX3085",
+    "averageMonthlyBalance": 215497.51
+  },
+  {
+    "accountId": "c9f2c027-5d9b-49bc-82e1-3edd8fc4b332",
+    "customerId": "b63c186e-7131-4ef4-b5bf-0455b68fa316",
+    "accountType": "SALARY",
+    "maskedAccountNumber": "XXXXXX3851",
+    "averageMonthlyBalance": 215497.51
+  },
+  {
+    "accountId": "4a15e244-12f5-4220-b956-0fb61fc22c14",
+    "customerId": "ba46ee65-c153-4b43-bce7-a78da51e76eb",
+    "accountType": "SAVINGS",
+    "maskedAccountNumber": "XXXXXX6641",
+    "averageMonthlyBalance": 239667.68
+  },
+  {
+    "accountId": "74fe5ed8-f028-4eb7-be8d-fec14218a0ec",
+    "customerId": "ba46ee65-c153-4b43-bce7-a78da51e76eb",
+    "accountType": "SALARY",
+    "maskedAccountNumber": "XXXXXX2682",
+    "averageMonthlyBalance": 239667.68
+  },
+  {
+    "accountId": "59dbb0fc-c656-45fa-8921-443cf5e0ce1d",
+    "customerId": "badcac14-0782-44c1-9a42-a7aa8e391c62",
+    "accountType": "SAVINGS",
+    "maskedAccountNumber": "XXXXXX1525",
+    "averageMonthlyBalance": 262457.31
+  },
+  {
+    "accountId": "4fac4328-6972-4147-88d1-474fc632df93",
+    "customerId": "badcac14-0782-44c1-9a42-a7aa8e391c62",
+    "accountType": "SALARY",
+    "maskedAccountNumber": "XXXXXX7572",
+    "averageMonthlyBalance": 262457.31
+  },
+  {
+    "accountId": "5320f268-2aa5-468e-9953-f0cc11b20d55",
+    "customerId": "c29d3092-8431-412d-bd0b-c26697915da1",
+    "accountType": "SAVINGS",
+    "maskedAccountNumber": "XXXXXX3240",
+    "averageMonthlyBalance": 388662.27
+  },
+  {
+    "accountId": "64778235-4064-4646-8b5c-4ade0b4b9b89",
+    "customerId": "d1b3c442-638b-4cda-b8a3-8453e4f57c5c",
+    "accountType": "SAVINGS",
+    "maskedAccountNumber": "XXXXXX1637",
+    "averageMonthlyBalance": 56726.77
+  },
+  {
+    "accountId": "d04ef1bc-7b53-4242-bee6-999fbae3c2fc",
+    "customerId": "e2e762c3-90f9-4e61-bb2b-4f1c9ee30b61",
+    "accountType": "SAVINGS",
+    "maskedAccountNumber": "XXXXXX4872",
+    "averageMonthlyBalance": 363723.58
+  },
+  {
+    "accountId": "6662b7f3-6b15-433d-8df8-b268b3061e95",
+    "customerId": "e2e762c3-90f9-4e61-bb2b-4f1c9ee30b61",
+    "accountType": "SALARY",
+    "maskedAccountNumber": "XXXXXX8956",
+    "averageMonthlyBalance": 363723.58
+  },
+  {
+    "accountId": "b1319473-dd5b-4660-9928-f34025f99af0",
+    "customerId": "e4b0b1e0-ca6b-4c9c-a84a-a7915d3e5629",
+    "accountType": "SAVINGS",
+    "maskedAccountNumber": "XXXXXX3088",
+    "averageMonthlyBalance": 171096.76
+  },
+  {
+    "accountId": "076a9843-4384-4bb6-9bc7-9bd8a1c423fa",
+    "customerId": "e4b0b1e0-ca6b-4c9c-a84a-a7915d3e5629",
+    "accountType": "SALARY",
+    "maskedAccountNumber": "XXXXXX6974",
+    "averageMonthlyBalance": 171096.76
+  },
+  {
+    "accountId": "bb583f41-a3d6-40a3-a89d-7d5266af29f7",
+    "customerId": "e4e9be97-fc7f-493b-896d-1f4656cded4a",
+    "accountType": "SAVINGS",
+    "maskedAccountNumber": "XXXXXX3286",
+    "averageMonthlyBalance": 212294.18
+  },
+  {
+    "accountId": "2a9afd51-cbe5-4572-900b-057963341c9d",
+    "customerId": "e4e9be97-fc7f-493b-896d-1f4656cded4a",
+    "accountType": "SALARY",
+    "maskedAccountNumber": "XXXXXX9935",
+    "averageMonthlyBalance": 212294.18
+  },
+  {
+    "accountId": "aa7919f6-cfa1-4fb9-889d-a01eb8f78855",
+    "customerId": "e5f3c9b0-4f31-43ee-b6d2-bc6d8e3334cc",
+    "accountType": "SAVINGS",
+    "maskedAccountNumber": "XXXXXX2412",
+    "averageMonthlyBalance": 75317.3
+  },
+  {
+    "accountId": "763ffd72-f32c-44b0-abc0-bae63cc9bd55",
+    "customerId": "f140610e-303c-4aa3-895b-3b22bfc7113b",
+    "accountType": "SAVINGS",
+    "maskedAccountNumber": "XXXXXX7628",
+    "averageMonthlyBalance": 316555.1
+  },
+  {
+    "accountId": "bb197ddd-07d5-48e9-b1bc-b96a253a9ba0",
+    "customerId": "f19430da-5582-4d8e-9808-f24a5d533e3a",
+    "accountType": "SAVINGS",
+    "maskedAccountNumber": "XXXXXX6892",
+    "averageMonthlyBalance": 84884.34
+  },
+  {
+    "accountId": "7b0e4055-dfaa-4aee-a757-11bfc4ff6ac5",
+    "customerId": "f559c7c5-7627-4b23-a586-3690b5c32d04",
+    "accountType": "SAVINGS",
+    "maskedAccountNumber": "XXXXXX4463",
+    "averageMonthlyBalance": 154785.53
+  },
+  {
+    "accountId": "b62a518e-6258-48ed-af96-371c03192e86",
+    "customerId": "f559c7c5-7627-4b23-a586-3690b5c32d04",
+    "accountType": "SALARY",
+    "maskedAccountNumber": "XXXXXX8937",
+    "averageMonthlyBalance": 154785.53
+  },
+  {
+    "accountId": "547bab76-6952-4bec-bb3c-1c83fea6a141",
+    "customerId": "f9e08298-0c8b-4cd3-a160-2cb262b94432",
+    "accountType": "SAVINGS",
+    "maskedAccountNumber": "XXXXXX2354",
+    "averageMonthlyBalance": 83050.76
+  }
+]
