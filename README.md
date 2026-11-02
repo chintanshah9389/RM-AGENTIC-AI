@@ -8,6 +8,15 @@ Intelligent customer insights. Personalized outreach. Higher conversions — as 
 
 **GitHub:** [chintanshah9389/RM-AGENTIC-AI](https://github.com/chintanshah9389/RM-AGENTIC-AI)
 
+### Demo video (walkthrough)
+
+Watch a live UI walkthrough (Personal Loan happy path + Gold Loan empty state, with on-screen captions):
+
+**[docs/demo-video/RM-AGENTIC-AI-demo.mp4](docs/demo-video/RM-AGENTIC-AI-demo.mp4)**
+
+On GitHub: open that path → click the file → **Download** / play in browser.  
+Narrated click script (optional): [docs/DEMO_VIDEO_SCRIPT.md](docs/DEMO_VIDEO_SCRIPT.md)
+
 ---
 
 ## What this demo does

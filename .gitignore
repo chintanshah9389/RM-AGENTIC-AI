@@ -29,6 +29,14 @@ tmp/
 .cache/
 **/_peek_db.py
 
+# Demo video intermediates (keep final MP4 tracked)
+docs/demo-video/live-raw/
+docs/demo-video/frames/
+docs/demo-video/render/
+docs/demo-video/*.webm
+docs/demo-video/check-*.png
+docs/demo-video/preview-*.png
+
 # Local secrets / env copies under apps
 apps/api/.env
 apps/web/.env
