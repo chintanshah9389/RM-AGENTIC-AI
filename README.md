@@ -17,6 +17,14 @@ Watch a live UI walkthrough (Personal Loan happy path + Gold Loan empty state, w
 On GitHub: open that path → click the file → **Download** / play in browser.  
 Narrated click script (optional): [docs/DEMO_VIDEO_SCRIPT.md](docs/DEMO_VIDEO_SCRIPT.md)
 
+### Architecture (HLD / LLD)
+
+| Doc | Link |
+|-----|------|
+| **High-Level Design** | [docs/HLD.md](docs/HLD.md) |
+| **Low-Level Design** | [docs/LLD.md](docs/LLD.md) |
+| Architecture index | [docs/architecture.md](docs/architecture.md) |
+
 ---
 
 ## What this demo does

@@ -1,46 +1,22 @@
-# Architecture (POC)
+# Architecture index (POC)
 
-This project implements the **agentic core** of the attached banking CRM architecture image.
+Authoritative design docs:
 
-## Layers
+| Document | Description |
+|----------|-------------|
+| **[HLD.md](./HLD.md)** | High-Level Design — context, layers, flows, roles, quality attributes |
+| **[LLD.md](./LLD.md)** | Low-Level Design — APIs, schema, agents, tools, sequences, frontend routes |
+| [agent-workflow.md](./agent-workflow.md) | Short agent pipeline diagram |
+| [DEMO_VIDEO_SCRIPT.md](./DEMO_VIDEO_SCRIPT.md) | Optional narrated demo script |
+| [demo-video/RM-AGENTIC-AI-demo.mp4](./demo-video/RM-AGENTIC-AI-demo.mp4) | Live UI walkthrough |
 
-1. **React UI** — RM login, campaign create, live workflow, results, customer 360 + approval
-2. **FastAPI** — auth, campaigns, workflow, messages, audit, health
-3. **Supervisor + LangGraph Orchestrator** — typed workflow state + step persistence
-4. **Specialized agents** — intent, retrieval, value, propensity, product, eligibility, compliance, message, explainability
-5. **Tools / services** — SQLAlchemy repositories, scoring, rules, mock messaging
-6. **LLM providers** — NVIDIA (optional) + Mock fallback
+## Stack snapshot
 
-## Orchestration (matches architecture image)
+1. **React UI** — RM login, campaign create, live workflow, results, customer 360 + approval  
+2. **FastAPI** — auth, campaigns, workflow, messages, audit, health  
+3. **Supervisor + LangGraph** — typed workflow state + step persistence  
+4. **Specialized agents** — intent → retrieval → scores → product → eligibility → compliance → message → explainability  
+5. **Tools / services** — SQLAlchemy, scoring, rules, mock messaging  
+6. **LLM** — NVIDIA (optional) + Mock fallback  
 
-- Default engine: **LangGraph** (`ORCHESTRATOR_ENGINE=langgraph`)
-- Fallback engine: native sequential runner (`ORCHESTRATOR_ENGINE=native`)
-- LangGraph nodes wrap the same specialized agent modules
-- Supervisor still owns DB persistence, ranking, human-approval gate, audit
-
-## Data stand-ins
-
-| Architecture source | POC implementation |
-|---------------------|--------------------|
-| CRM / Core Banking | SQLAlchemy models + seeded synthetic data |
-| PostgreSQL | **SQLite** local default; **PostgreSQL** via Docker Compose |
-| Redis / Feast / pgvector / S3 | Deferred (documented future) |
-| Consent | `customer_consents` |
-| Product catalogue | `products` |
-| WhatsApp / Twilio | MockWhatsAppProvider |
-| Salesforce | omitted (future) |
-
-## Free-first stack mapping
-
-| Image item | Free POC choice |
-|------------|-----------------|
-| OpenAI / Azure / Claude | NVIDIA NIM free API + Mock |
-| LangGraph / LangChain | LangGraph + langchain-core |
-| PostgreSQL | SQLite or Docker Postgres |
-| WhatsApp Business | Mock WhatsApp |
-
-## Guardrails
-
-- Compliance hard-blocks outbound messaging
-- Human approval required before mock send
-- Synthetic data banners throughout UI/API
+Default DB: **SQLite**; optional **PostgreSQL** via Docker. WhatsApp: **mock only**.
