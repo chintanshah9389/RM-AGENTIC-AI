@@ -23,6 +23,7 @@ Narrated click script (optional): [docs/DEMO_VIDEO_SCRIPT.md](docs/DEMO_VIDEO_SC
 |-----|------|
 | **High-Level Design** | [docs/HLD.md](docs/HLD.md) |
 | **Low-Level Design** | [docs/LLD.md](docs/LLD.md) |
+| **Product & AI explained** (client guide, POC vs Enterprise) | [docs/PRODUCT_AND_AI_EXPLAINED.md](docs/PRODUCT_AND_AI_EXPLAINED.md) |
 | Architecture index | [docs/architecture.md](docs/architecture.md) |
 
 ---

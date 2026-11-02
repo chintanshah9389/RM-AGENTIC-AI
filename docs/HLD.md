@@ -222,12 +222,22 @@ Optional: NVIDIA cloud LLM. No K8s/service mesh in POC.
 
 ---
 
-## 14. Future architecture (indicative)
+## 14. POC vs Enterprise (same architecture)
 
-- Real messaging gateway, CRM sync, feature store / embeddings
-- Separate read replicas, Redis job queue instead of in-process threads
-- Stronger RBAC UI + supervisor dashboards
-- Model registry for production propensity (not heuristics)
+The POC uses an **enterprise-shaped** control flow (UI → API → Supervisor/LangGraph → Agents → Tools → LLM → Rules → Human approval → Audit). Enterprise keeps that pattern and upgrades stand-ins.
+
+| Area | POC | Enterprise |
+|------|-----|------------|
+| Data | Synthetic SQLite / optional Postgres | Core/CRM CDC, HA DB, residency |
+| LLM | Mock or NVIDIA NIM | Private/approved LLM + PII gateway |
+| Tools | SQLAlchemy DB tools | Same contracts → bank APIs |
+| Jobs | In-process thread | Queue workers, retries, DLQ |
+| Messaging | Mock WhatsApp | WhatsApp Business + templates |
+| Auth | Demo JWT users | SSO + fine RBAC + maker-checker |
+| Scores | Heuristics | Registered ML + policy sign-off |
+| Ops | Laptop demo | Multi-env, observability, SIEM |
+
+Full client-facing table: [PRODUCT_AND_AI_EXPLAINED.md §9](./PRODUCT_AND_AI_EXPLAINED.md#9-poc-vs-enterprise--same-architecture-different-maturity).
 
 ---
 
